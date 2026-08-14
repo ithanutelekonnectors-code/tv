@@ -1,0 +1,4266 @@
+========================================================
+  EXTINF
+  Total Channels: 1065
+  Export Date: 12/08/2026, 11:52:38
+========================================================
+
+[1] Oli TV
+    Category: Unknown
+    URL: https://live.olidigital.in/olitv/olitv/index.m3u8
+
+[2] Time TV
+    Category: Unknown
+    URL: https://live.olidigital.in/timetv/timetv/index.m3u8
+
+[3] Moon TV
+    Category: Unknown
+    URL: https://live.maxtn.in/moontv/moontv/index.m3u8
+
+[4] NTN TV
+    Category: Unknown
+    URL: https://live.skystream.in/live/ntntv/index.m3u8?hls_ctx=1314owa2
+
+[5] Kumari TV
+    Category: Unknown
+    URL: https://rtmp.applelive.in/gvkumaritv/gvkumaritv/index.m3u8
+
+[6] Sakthi TV
+    Category: Unknown
+    URL: https://live.sscloud7.in/live/sakthitv/index.m3u8
+
+[7] Dtv
+    Category: Coimbatore
+    URL: https://stream.d6-pro.com/Dtv/live/index.m3u8
+
+[8] TDN
+    Category: Unknown
+    URL: https://live.maxtn.in/tdn/tdn/index.m3u8
+
+[9] 7 Green 4K
+    Category: Koovathur; Kanchipuram Dist.
+    URL: https://account33.livebox.co.in/7GREEN4Khls/live.m3u8
+
+[10] Tharun Movies
+    Category: Koovathur; Kanchipuram Dist.
+    URL: https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
+
+[11] MN TV
+    Category: Dharmapuri
+    URL: https://mntv.livebox.co.in/mntvhls/live.m3u8
+
+[12] Sana TV
+    Category: State-wide
+    URL: https://galaxyott.live/hls/sanatv.m3u8
+
+[13] Sana Plus
+    Category: State-wide
+    URL: https://galaxyott.live/hls/sanaplus.m3u8
+
+[14] GEM TV
+    Category: Unknown
+    URL: https://gemtv.circle7stream.com/gem/fcce47a8559e30755582c396ce7fce9e.sdp/playlist.m3u8
+
+[15] NTC TV
+    Category: Pattukkottai
+    URL: https://galaxyott.live/hls/ntv.m3u8
+
+[16] Ultimate TV
+    Category: Trichy
+    URL: https://stream.galaxyott.live/live/utv/index.m3u8
+
+[17] Surya TV
+    Category: Tiruvannamalai
+    URL: https://galaxyott.live/hls/suryatv.m3u8
+
+[18] YET TV
+    Category: State-wide
+    URL: https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
+
+[19] Manasu TV
+    Category: Unknown
+    URL: https://stream6.livebox.co.in/manasutvhls/live.m3u8
+
+[20] Harin TV
+    Category: Unknown
+    URL: https://ipcloud.live/harintv/harintvhd/index.m3u8
+
+[21] Phoenix TV
+    Category: Tirupattur
+    URL: https://stream.onecloudlive.in/phoenixtv/phoenixtv/index.m3u8
+
+[22] Roja TV
+    Category: Coimbatore
+    URL: https://live.rojatv.cloud/rojatv/rojatv/index.m3u8
+
+[23] Roja Movies
+    Category: Coimbatore
+    URL: https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
+
+[24] Nila TV
+    Category: Unknown
+    URL: https://live.olidigital.in/nilatv/nilatv/index.m3u8
+
+[25] Sky Plus TV
+    Category: Tiruchengode
+    URL: https://ipcloud.live/skytv/skytv/index.m3u8
+
+[26] SMCV TV
+    Category: Unknown
+    URL: https://singamcloud.in/smcvtv/smcvtv/index.m3u8
+
+[27] Sasi TV [Not 24/7]
+    Category: Unknown
+    URL: http://sasitv.phoenixcreations.online/sasitv/sasitv/index.m3u8
+
+[28] Jose TV [Not 24/7]
+    Category: Alangulam; Tenkasi Dist.
+    URL: http://josetv.phoenixcreations.online/josetv/josetv/index.m3u8
+
+[29] RK TV [Not 24/7]
+    Category: Tenkasi
+    URL: http://rktv.phoenixcreations.online/rktv/rktv/index.m3u8
+
+[30] Subin TV
+    Category: Alangulam; Tenkasi Dist.
+    URL: https://stream.galaxyott.live/live/subintv/index.m3u8
+
+[31] Aaryaa TV
+    Category: Erode
+    URL: https://live.sscloud7.in/live/aaryaatv/index.m3u8
+
+[32] Isai TV
+    Category: Ramanathapuram
+    URL: https://server.sscloud7.in/isaihd/isaihd/index.m3u8
+
+[33] Rock TV
+    Category: Unknown
+    URL: https://apis.avmediawork.in/tvhls/rocktv.m3u8
+
+[34] Tamil Oli TV
+    Category: Unknown
+    URL: https://view.rcserver.in/tmp_hls7/tamilolitv/index.m3u8
+
+[35] Dharshan TV
+    Category: Kanchipuram
+    URL: https://galaxyott.live/hls/dharshantv.m3u8
+
+[36] Akilam TV
+    Category: Thisayanvilail; Tirunelveli Dist.
+    URL: https://stream.onecloudlive.in/akilamtv/akilamtvhd/index.m3u8
+
+[37] RJ Tamil [Not 24/7]
+    Category: Unknown
+    URL: https://ipcloud.live/rjtamiltv/rjtamil/index.m3u8
+
+[38] Maruthi TV
+    Category: Vazhapadi; Salem Dist.
+    URL: https://stream.onecloudlive.in/maruthitv/maruthitvhd/index.m3u8
+
+[39] M Television [Not 24/7]
+    Category: Kodaikanal
+    URL: https://ipcloud.live/mtv/menhd/index.m3u8
+
+[40] MSN TV
+    Category: Cuddalore
+    URL: https://ipcloud.live/msntv/msntv/index.m3u8
+
+[41] Veerali TV
+    Category: Udangudi; Thoothukudi
+    URL: https://ipcloud.live/veerali/veeralitv/index.m3u8
+
+[42] Shalini TV Tiruvannamalai
+    Category: Tiruvannamalai
+    URL: https://ipcloud.live/shalinitv/shalinitv/index.m3u8
+
+[43] Anbu TV
+    Category: Sivakasi
+    URL: https://ipcloud.live/anbutv/anbutvhd/index.m3u8
+
+[44] Nellai TV
+    Category: Tirunelveli
+    URL: https://stream.onecloudlive.in/nellaitv/nellaitv/index.m3u8
+
+[45] Params TV
+    Category: Salem
+    URL: https://app.ashokadigital.net/app/a3e0b02f/index.m3u8
+
+[46] Karthick TV
+    Category: Tirunelveli
+    URL: https://ipcloud.live/karthick/karthicktvhd/index.m3u8
+
+[47] Eagle TV
+    Category: Unknown
+    URL: https://ipcloud.live/eaglemedia/eagletv/index.m3u8
+
+[48] Dheiveegam TV
+    Category: Unknown
+    URL: https://stream.singamcloud.in/Dheiveegamtv/Dheiveegamtv/index.m3u8
+
+[49] Oscar TV
+    Category: Unknown
+    URL: https://account21.livebox.co.in/oscartvhls/live.m3u8
+
+[50] Jeiyan TV
+    Category: Unknown
+    URL: https://stream.onecloudlive.in/jeyantv/jeyantv/index.m3u8
+
+[51] Vidiyal TV
+    Category: Unknown
+    URL: https://account11.livebox.co.in/vidyaltvhls/live.m3u8?psk=stream
+
+[52] Pothigai Thendral
+    Category: Unknown
+    URL: https://ipcloud.live/pothigai/thendral/index.m3u8
+
+[53] JRP TV
+    Category: Unknown
+    URL: https://ipcloud.live/jrptv/jrphd/index.m3u8
+
+[54] Kavin TV
+    Category: Unknown
+    URL: http://198.144.149.206:8080/NOTV/KAVINTV/index.m3u8?token=GTR
+
+[55] Jawahar Channel
+    Category: Salem
+    URL: http://jawahar.7starcloud.com:1935/live/app/playlist.m3u8
+
+[56] 7Star TV
+    Category: Salem
+    URL: http://premium.7starcloud.com:1935/live/7star/playlist.m3u8
+
+[57] Tamil Star TV
+    Category: Salem
+    URL: http://acv.7starcloud.com:1935/tamilstar/tv/playlist.m3u8
+
+[58] Jayaam TV
+    Category: Unknown
+    URL: http://jayaam.7starcloud.com:1935/jayaamtv/jayaamtv/playlist.m3u8
+
+[59] KCN TV
+    Category: Unknown
+    URL: https://view.rcserver.in/tmp_hls12/kcntv/index.m3u8
+
+[60] Tamil Magan TV
+    Category: Unknown
+    URL: http://120.138.14.16:8080/hls/tamilmagantv/index.m3u8
+
+[61] Namathu Sangamam TV
+    Category: Unknown
+    URL: http://yours.7starcloud.com:1935/live/nmtv/playlist.m3u8
+
+[62] Yours TV
+    Category: Unknown
+    URL: http://yours.7starcloud.com:1935/live/yourstv/playlist.m3u8
+
+[63] K Channel [Not 24/7]
+    Category: Coimbatore
+    URL: http://brightmeltech.in/kchannel/kchannel.m3u8
+
+[64] Sky Media
+    Category: Unknown
+    URL: http://skymedia.phoenixcreations.online/skymedia/skymedia/index.m3u8
+
+[65] Thirumalai TV Vadipatti
+    Category: Vadipatti; Madurai Dist.
+    URL: https://ipcloud.live/thirumalaitv/madurai/index.m3u8
+
+[66] SS TV Nagercoil
+    Category: Nagercoil; Kanyakumari Dist.
+    URL: https://server.sscloud7.in/live/sshd/playlist.m3u8
+
+[67] Jith TV
+    Category: Unknown
+    URL: https://sscloud7.com/live/jithtv/index.m3u8
+
+[68] Sky TV
+    Category: Unknown
+    URL: https://sscloud7.com/live/skytv/index.m3u8
+
+[69] Boys TV
+    Category: Unknown
+    URL: https://rtmp.applelive.in/boystv/boystv/index.m3u8
+
+[70] Maniway TV
+    Category: Unknown
+    URL: https://live.singamcloud.in/bsctv/bsctv/index.m3u8
+
+[71] King TV Alangulam
+    Category: Alangulam; Tenkasi Dist.
+    URL: https://server.sscloud7.in/kingtv/kingtv/index.m3u8
+
+[72] Udhayam TV
+    Category: Unknown
+    URL: https://view.rcserver.in/tmp_hls8/udhayamtv/index.m3u8
+
+[73] Jayam TV Karur
+    Category: Karur
+    URL: https://view.rcserver.in/tmp_hls10/jayamtvkarur/index.m3u8
+
+[74] Tamilnesan TV
+    Category: Unknown
+    URL: https://view.rcserver.in/tmp_hls14/tntv/index.m3u8
+
+[75] Amma Vision
+    Category: Unknown
+    URL: https://view.rcserver.in/tmp_hls19/ammavision/index.m3u8
+
+[76] Jayam TV
+    Category: Unknown
+    URL: https://view.rcserver.in/tmp_hls20/index.m3u8
+
+[77] Thirai TV
+    Category: Unknown
+    URL: https://view.apserver.in/tmp_hls2/thiraitv/index.m3u8
+
+[78] Thirai Isai
+    Category: Unknown
+    URL: https://view.apserver.in/tmp_hls1/thiraitvplus/index.m3u8
+
+[79] Dharumai Adeenam TV
+    Category: Unknown
+    URL: https://stream.onecloudlive.in/taitaltv/livetv/index.m3u8
+
+[80] Ayya Vaikuntar TV
+    Category: Unknown
+    URL: https://server.sscloud7.in/live/ayyatv/index.m3u8
+
+[81] Thendral TV Theni
+    Category: Theni
+    URL: https://sscloud7.com/live/thendraltv/index.m3u8
+
+[82] NDTV Lanka FHD
+    Category: youtube
+    URL: https://www.youtube.com/watch?v=RUzgphgBRzI
+
+[83] Dtv
+    Category: Coimbatore
+    URL: https://stream.d6-pro.com/Dtv/live/index.m3u8
+
+[84] TDN FHD
+    Category: Unknown
+    URL: https://live.maxtn.in/tdn/tdn/index.m3u8
+
+[85] 7 Green 4K
+    Category: Koovathur; Kanchipuram Dist.
+    URL: https://account33.livebox.co.in/7GREEN4Khls/live.m3u8
+
+[86] Tharun Movies HD
+    Category: Koovathur; Kanchipuram Dist.
+    URL: https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
+
+[87] MN TV
+    Category: Dharmapuri
+    URL: https://mntv.livebox.co.in/mntvhls/live.m3u8
+
+[88] Sana TV FHD
+    Category: State-wide
+    URL: https://galaxyott.live/hls/sanatv.m3u8
+
+[89] Sana Plus FHD
+    Category: State-wide
+    URL: https://galaxyott.live/hls/sanaplus.m3u8
+
+[90] GEM TV FHD
+    Category: Unknown
+    URL: https://gemtv.circle7stream.com/gem/fcce47a8559e30755582c396ce7fce9e.sdp/playlist.m3u8
+
+[91] NTC TV
+    Category: Pattukkottai
+    URL: https://galaxyott.live/hls/ntv.m3u8
+
+[92] Ultimate TV
+    Category: Trichy
+    URL: https://stream.galaxyott.live/live/utv/index.m3u8
+
+[93] Surya TV
+    Category: Tiruvannamalai
+    URL: https://galaxyott.live/hls/suryatv.m3u8
+
+[94] YET TV
+    Category: State-wide
+    URL: https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
+
+[95] Manasu TV FHD
+    Category: Unknown
+    URL: https://stream6.livebox.co.in/manasutvhls/live.m3u8
+
+[96] Harin TV
+    Category: Unknown
+    URL: https://ipcloud.live/harintv/harintvhd/index.m3u8
+
+[97] Phoenix TV
+    Category: Tirupattur
+    URL: https://stream.onecloudlive.in/phoenixtv/phoenixtv/index.m3u8
+
+[98] Roja TV FHD
+    Category: Coimbatore
+    URL: https://live.rojatv.cloud/rojatv/rojatv/index.m3u8
+
+[99] Roja Movies FHD
+    Category: Coimbatore
+    URL: https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
+
+[100] Nila TV FHD
+    Category: Unknown
+    URL: https://live.olidigital.in/nilatv/nilatv/index.m3u8
+
+[101] Sky Plus TV
+    Category: Tiruchengode
+    URL: https://ipcloud.live/skytv/skytv/index.m3u8
+
+[102] SMCV TV SD
+    Category: Unknown
+    URL: https://singamcloud.in/smcvtv/smcvtv/index.m3u8
+
+[103] Sasi TV [Not 24/7] HD
+    Category: Unknown
+    URL: http://sasitv.phoenixcreations.online/sasitv/sasitv/index.m3u8
+
+[104] Jose TV [Not 24/7]
+    Category: Alangulam; Tenkasi Dist.
+    URL: http://josetv.phoenixcreations.online/josetv/josetv/index.m3u8
+
+[105] RK TV [Not 24/7]
+    Category: Tenkasi
+    URL: http://rktv.phoenixcreations.online/rktv/rktv/index.m3u8
+
+[106] Subin TV
+    Category: Alangulam; Tenkasi Dist.
+    URL: https://stream.galaxyott.live/live/subintv/index.m3u8
+
+[107] Aaryaa TV
+    Category: Erode
+    URL: https://live.sscloud7.in/live/aaryaatv/index.m3u8
+
+[108] Isai TV
+    Category: Ramanathapuram
+    URL: https://server.sscloud7.in/isaihd/isaihd/index.m3u8
+
+[109] Rock TV SD
+    Category: Unknown
+    URL: https://apis.avmediawork.in/tvhls/rocktv.m3u8
+
+[110] Tamil Oli TV SD
+    Category: Unknown
+    URL: https://view.rcserver.in/tmp_hls7/tamilolitv/index.m3u8
+
+[111] Dharshan TV SD
+    Category: Kanchipuram
+    URL: https://galaxyott.live/hls/dharshantv.m3u8
+
+[112] Akilam TV
+    Category: Thisayanvilail; Tirunelveli Dist.
+    URL: https://stream.onecloudlive.in/akilamtv/akilamtvhd/index.m3u8
+
+[113] RJ Tamil [Not 24/7] HD
+    Category: Unknown
+    URL: https://ipcloud.live/rjtamiltv/rjtamil/index.m3u8
+
+[114] Maruthi TV
+    Category: Vazhapadi; Salem Dist.
+    URL: https://stream.onecloudlive.in/maruthitv/maruthitvhd/index.m3u8
+
+[115] M Television [Not 24/7]
+    Category: Kodaikanal
+    URL: https://ipcloud.live/mtv/menhd/index.m3u8
+
+[116] MSN TV
+    Category: Cuddalore
+    URL: https://ipcloud.live/msntv/msntv/index.m3u8
+
+[117] Veerali TV
+    Category: Udangudi; Thoothukudi
+    URL: https://ipcloud.live/veerali/veeralitv/index.m3u8
+
+[118] Shalini TV Tiruvannamalai
+    Category: Tiruvannamalai
+    URL: https://ipcloud.live/shalinitv/shalinitv/index.m3u8
+
+[119] Anbu TV
+    Category: Sivakasi
+    URL: https://ipcloud.live/anbutv/anbutvhd/index.m3u8
+
+[120] Nellai TV
+    Category: Tirunelveli
+    URL: https://stream.onecloudlive.in/nellaitv/nellaitv/index.m3u8
+
+[121] Params TV
+    Category: Salem
+    URL: https://app.ashokadigital.net/app/a3e0b02f/index.m3u8
+
+[122] Karthick TV
+    Category: Tirunelveli
+    URL: https://ipcloud.live/karthick/karthicktvhd/index.m3u8
+
+[123] Eagle TV HD
+    Category: Unknown
+    URL: https://ipcloud.live/eaglemedia/eagletv/index.m3u8
+
+[124] Dheiveegam TV FHD
+    Category: Unknown
+    URL: https://stream.singamcloud.in/Dheiveegamtv/Dheiveegamtv/index.m3u8
+
+[125] Oscar TV
+    Category: Unknown
+    URL: https://account21.livebox.co.in/oscartvhls/live.m3u8
+
+[126] Jeiyan TV
+    Category: Unknown
+    URL: https://stream.onecloudlive.in/jeyantv/jeyantv/index.m3u8
+
+[127] Vidiyal TV FHD
+    Category: Unknown
+    URL: https://account11.livebox.co.in/vidyaltvhls/live.m3u8?psk=stream
+
+[128] Pothigai Thendral
+    Category: Unknown
+    URL: https://ipcloud.live/pothigai/thendral/index.m3u8
+
+[129] JRP TV
+    Category: Unknown
+    URL: https://ipcloud.live/jrptv/jrphd/index.m3u8
+
+[130] Kavin TV HD
+    Category: Unknown
+    URL: http://198.144.149.206:8080/NOTV/KAVINTV/index.m3u8?token=GTR
+
+[131] Jawahar Channel
+    Category: Salem
+    URL: http://jawahar.7starcloud.com:1935/live/app/playlist.m3u8
+
+[132] 7Star TV
+    Category: Salem
+    URL: http://premium.7starcloud.com:1935/live/7star/playlist.m3u8
+
+[133] Tamil Star TV
+    Category: Salem
+    URL: http://acv.7starcloud.com:1935/tamilstar/tv/playlist.m3u8
+
+[134] Jayaam TV
+    Category: Unknown
+    URL: http://jayaam.7starcloud.com:1935/jayaamtv/jayaamtv/playlist.m3u8
+
+[135] KCN TV
+    Category: Unknown
+    URL: https://view.rcserver.in/tmp_hls12/kcntv/index.m3u8
+
+[136] Tamil Magan TV
+    Category: Unknown
+    URL: http://120.138.14.16:8080/hls/tamilmagantv/index.m3u8
+
+[137] Namathu Sangamam TV
+    Category: Unknown
+    URL: http://yours.7starcloud.com:1935/live/nmtv/playlist.m3u8
+
+[138] Yours TV
+    Category: Unknown
+    URL: http://yours.7starcloud.com:1935/live/yourstv/playlist.m3u8
+
+[139] K Channel [Not 24/7]
+    Category: Coimbatore
+    URL: http://brightmeltech.in/kchannel/kchannel.m3u8
+
+[140] Sky Media
+    Category: Unknown
+    URL: http://skymedia.phoenixcreations.online/skymedia/skymedia/index.m3u8
+
+[141] Thirumalai TV Vadipatti
+    Category: Vadipatti; Madurai Dist.
+    URL: https://ipcloud.live/thirumalaitv/madurai/index.m3u8
+
+[142] Oli TV FHD
+    Category: Unknown
+    URL: https://live.olidigital.in/olitv/olitv/index.m3u8
+
+[143] Time TV FHD
+    Category: Unknown
+    URL: https://live.olidigital.in/timetv/timetv/index.m3u8
+
+[144] SS TV Nagercoil HD
+    Category: Nagercoil; Kanyakumari Dist.
+    URL: https://server.sscloud7.in/live/sshd/playlist.m3u8
+
+[145] Jith TV
+    Category: Unknown
+    URL: https://sscloud7.com/live/jithtv/index.m3u8
+
+[146] Sky TV
+    Category: Unknown
+    URL: https://sscloud7.com/live/skytv/index.m3u8
+
+[147] Boys TV
+    Category: Unknown
+    URL: https://rtmp.applelive.in/boystv/boystv/index.m3u8
+
+[148] Maniway TV
+    Category: Unknown
+    URL: https://live.singamcloud.in/bsctv/bsctv/index.m3u8
+
+[149] King TV Alangulam
+    Category: Alangulam; Tenkasi Dist.
+    URL: https://server.sscloud7.in/kingtv/kingtv/index.m3u8
+
+[150] Udhayam TV
+    Category: Unknown
+    URL: https://view.rcserver.in/tmp_hls8/udhayamtv/index.m3u8
+
+[151] Jayam TV Karur
+    Category: Karur
+    URL: https://view.rcserver.in/tmp_hls10/jayamtvkarur/index.m3u8
+
+[152] Tamilnesan TV
+    Category: Unknown
+    URL: https://view.rcserver.in/tmp_hls14/tntv/index.m3u8
+
+[153] Amma Vision HD
+    Category: Unknown
+    URL: https://view.rcserver.in/tmp_hls19/ammavision/index.m3u8
+
+[154] Jayam TV HD
+    Category: Unknown
+    URL: https://view.rcserver.in/tmp_hls20/index.m3u8
+
+[155] Thirai TV
+    Category: Unknown
+    URL: https://view.apserver.in/tmp_hls2/thiraitv/index.m3u8
+
+[156] Thirai Isai
+    Category: Unknown
+    URL: https://view.apserver.in/tmp_hls1/thiraitvplus/index.m3u8
+
+[157] Dharumai Adeenam TV
+    Category: Unknown
+    URL: https://stream.onecloudlive.in/taitaltv/livetv/index.m3u8
+
+[158] Ayya Vaikuntar TV
+    Category: Unknown
+    URL: https://server.sscloud7.in/live/ayyatv/index.m3u8
+
+[159] Thendral TV Theni
+    Category: Theni
+    URL: https://sscloud7.com/live/thendraltv/index.m3u8
+
+[160] Sana TV
+    Category: PLC
+    URL: https://stream.galaxyott.live/live/sanatv/index.m3u8
+
+[161] Sana TV [OTTLive]
+    Category: PLC
+    URL: https://stream.ottlive.co.in/sanatv/index.m3u8
+
+[162] Sana Plus
+    Category: Music
+    URL: https://galaxyott.live/hls/sanaplus.m3u8
+
+[163] Sana Plus [OTTLive]
+    Category: Music
+    URL: https://stream.ottlive.co.in/sanaplus/index.m3u8
+
+[164] NTC TV
+    Category: PLC
+    URL: https://galaxyott.live/hls/ntv.m3u8
+
+[165] Ultimate TV
+    Category: PLC
+    URL: https://stream.galaxyott.live/live/utv/index.m3u8
+
+[166] Ultimate TV [OTTLive]
+    Category: PLC
+    URL: https://stream.ottlive.co.in/utvtamil/index.m3u8
+
+[167] Anandham TV
+    Category: PLC
+    URL: https://server.sscloud7.in/live/anandhamtv/index.mpd
+
+[168] Suriya TV
+    Category: PLC
+    URL: https://galaxyott.live/hls/suryatv.m3u8
+
+[169] Suriya TV [OTTLive]
+    Category: PLC
+    URL: https://stream.ottlive.co.in/suryatvtamil/index.m3u8
+
+[170] Subin TV
+    Category: PLC
+    URL: https://stream.galaxyott.live/live/subintv/index.m3u8
+
+[171] Subin TV [OTTLive]
+    Category: PLC
+    URL: https://stream.ottlive.co.in/subintvtamil/index.m3u8
+
+[172] Subin TV [Phoenix]
+    Category: PLC
+    URL: http://subintv.phoenixcreations.online/subintv/subintv/playlist.m3u8
+
+[173] Dharsan TV
+    Category: Hindu Devotional
+    URL: https://galaxyott.live/hls/dharshantv.m3u8
+
+[174] Rock TV
+    Category: PLC
+    URL: https://apis.avmediawork.in/tvhls/rocktv.m3u8
+
+[175] Rock TV [OTTLive]
+    Category: PLC
+    URL: https://stream.ottlive.co.in/suriyantvtamil/index.m3u8
+
+[176] Aaryaa TV
+    Category: Music
+    URL: https://stream.ottlive.co.in/aryatvtamil/index.m3u8
+
+[177] Aaryaa TV [Cloud7]
+    Category: Music
+    URL: https://live.sscloud7.in/live/aaryaatv/index.m3u8
+
+[178] Roja TV
+    Category: PLC
+    URL: https://rojatv.cloud/rojatv/rojatv/index.m3u8
+
+[179] Roja TV
+    Category: PLC
+    URL: https://live.rojatv.cloud/rojatv/rojatv/index.m3u8
+
+[180] Roja TV
+    Category: PLC
+    URL: https://hls.rojatv.cloud/rojatv/rojatv/index.m3u8
+
+[181] Roja Movies
+    Category: Movies
+    URL: https://live.rojatv.cloud/rojamovies/rojamovies/index.m3u8
+
+[182] Roja Movies
+    Category: Movies
+    URL: https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
+
+[183] Roja Movies
+    Category: Movies
+    URL: https://hls.rojatv.cloud/rojamovies/rojamovies/index.m3u8
+
+[184] Bhagyam TV
+    Category: Hindu Devotional
+    URL: http://103.159.180.34:5001/live/3358.m3u8
+
+[185] Nijam TV
+    Category: Christian Devotional
+    URL: https://nijamtv.nijamtv.org/live/nijamtv/index.m3u8
+
+[186] Nijam TV [GalaxyOTT]
+    Category: Christian Devotional
+    URL: https://stream.galaxyott.live/live/nijamtv/index.m3u8
+
+[187] Raga TV
+    Category: PLC
+    URL: https://live.onecloudlive.in/ragatv/ragatvhd/index.m3u8
+
+[188] Om Sakthi TV
+    Category: PLC
+    URL: https://live1.sscloud7.com/live/omsakthitv/index.mpd
+
+[189] Oli TV
+    Category: PLC
+    URL: https://live.olidigital.in/olitv/olitv/index.m3u8
+
+[190] Time TV
+    Category: PLC
+    URL: https://live.olidigital.in/timetv/timetv/index.m3u8
+
+[191] Moon TV
+    Category: PLC
+    URL: https://live.sscloud7.in/live/moontv/index.m3u8
+
+[192] Moon TV [MaxTN]
+    Category: PLC
+    URL: https://live.maxtn.in/moontv/moontv/index.m3u8
+
+[193] NTN TV
+    Category: PLC
+    URL: https://live.skystream.in/live/ntntv/index.m3u8
+
+[194] Sakthi TV
+    Category: PLC
+    URL: https://live.sscloud7.in/live/sakthitv/index.m3u8
+
+[195] Deiva Oli
+    Category: PLC
+    URL: https://stream.sscloud7.in/live/deivaoli/index.mpd
+
+[196] Dtv
+    Category: PLC
+    URL: https://stream.d6-pro.com/Dtv/live/index.m3u8
+
+[197] Tunes 6 Music
+    Category: Music
+    URL: https://stream.d6-pro.com/tunes6music/live/video.m3u8
+
+[198] Dbhakthi
+    Category: Hindu Devotional
+    URL: https://stream.d6-pro.com/Dbhakhi/live/index.m3u8
+
+[199] 7 Green 4K
+    Category: PLC
+    URL: https://account33.livebox.co.in/7GREEN4Khls/live.m3u8
+
+[200] Tharun Movies
+    Category: PLC
+    URL: https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
+
+[201] MN TV
+    Category: PLC
+    URL: https://mntv.livebox.co.in/mntvhls/live.m3u8
+
+[202] GEM TV
+    Category: News
+    URL: https://gemtv.circle7stream.com/gem/fcce47a8559e30755582c396ce7fce9e.sdp/playlist.m3u8
+
+[203] YET TV
+    Category: PLC
+    URL: https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
+
+[204] YET TV [1Cloud]
+    Category: PLC
+    URL: https://sstudiostv.stream.onecloudlive.in/sstudiostv/yettv/index.m3u8
+
+[205] YET Max
+    Category: Music
+    URL: https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8
+
+[206] YET Max [1Cloud]
+    Category: Music
+    URL: https://sstudiostv.stream.onecloudlive.in/sstudiostv/yettv2/index.m3u8
+
+[207] ACP TV
+    Category: PLC
+    URL: http://103.87.105.51:8080/acphd/acphd.m3u8?psk=123456
+
+[208] ACP Classic
+    Category: Classic
+    URL: http://103.87.105.51:8080/acpclassic/acpclassic.m3u8?psk=123456
+
+[209] ACP Isai Oli
+    Category: Music
+    URL: http://103.87.105.51:8080/acpisaioli/acpisaioli.m3u8?psk=123456
+
+[210] Asoka TV
+    Category: PLC
+    URL: http://ipcloud.live/asokatv/asokahd/index.mpd
+
+[211] Harin TV
+    Category: PLC
+    URL: https://ipcloud.live/harintv/harintvhd/index.m3u8
+
+[212] Phoenix TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/phoenixtv/phoenixtv/index.m3u8
+
+[213] Nila TV Pannur
+    Category: PLC
+    URL: https://live.olidigital.in/nilatv/nilatv/index.m3u8
+
+[214] Sky Plus TV
+    Category: PLC
+    URL: https://ipcloud.live/skytv/skytv/index.m3u8
+
+[215] Deavathai TV
+    Category: PLC
+    URL: https://ipcloud.live/devadhaitv/devadhaitv/index.m3u8
+
+[216] SMCV TV
+    Category: PLC
+    URL: https://singamcloud.in/smcvtv/smcvtv/index.m3u8
+
+[217] APS TV Gold
+    Category: PLC
+    URL: https://apsgold-a1.tamilstream.in/apsgold/apsgold/index.m3u8
+
+[218] Sasi TV
+    Category: PLC
+    URL: http://sasitv.phoenixcreations.online/sasitv/sasitv/index.m3u8
+
+[219] Jose TV
+    Category: PLC
+    URL: http://josetv.phoenixcreations.online/josetv/josetv/index.m3u8
+
+[220] Isai TV
+    Category: Music
+    URL: https://server.sscloud7.in/isaihd/isaihd/index.m3u8
+
+[221] Tamil Oli TV
+    Category: PLC
+    URL: https://view.rcserver.in/tmp_hls7/tamilolitv/index.m3u8
+
+[222] Sailam TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/sailamtv/sailamtv/index.m3u8
+
+[223] Mullai TV
+    Category: PLC
+    URL: https://ipcloud.live/mullaitv/mullaitv/index.m3u8
+
+[224] Mullai TV [APCloud]
+    Category: PLC
+    URL: https://live.apcloud.in/mullaitv/live/index.m3u8
+
+[225] Strawberry TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/strawberrytvhd/strawberryhd/index.m3u8
+
+[226] JP Music TV
+    Category: PLC
+    URL: http://jptv.sscloud7.in/live/jptv/video.m3u8
+
+[227] Aaron TV
+    Category: PLC
+    URL: http://stream.onecloudlive.in/sachintv/aarontvhd/index.m3u8
+
+[228] Devasena TV
+    Category: PLC
+    URL: http://stream.onecloudlive.in/sachintv/devasenatvhd/index.mpd
+
+[229] Sakthi TV Nellai
+    Category: PLC
+    URL: https://stream.onecloudlive.in/sachintv/sakthitv/index.m3u8
+
+[230] Sarvik TV
+    Category: PLC
+    URL: https://live3.onecloudlive.in/sachintv/sarvikhd/index.m3u8
+
+[231] Akilam TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/akilamtv/akilamtvhd/index.m3u8
+
+[232] Namma Gobi TV
+    Category: PLC
+    URL: https://cdn1.rojatv.cloud/nammagobi/tv/index.m3u8
+
+[233] RJ Tamil
+    Category: PLC
+    URL: https://ipcloud.live/rjtamiltv/rjtamil/index.m3u8
+
+[234] Aadhavan TV
+    Category: PLC
+    URL: https://view.apserver.in/tmp_hls3/aadhavantv/index.m3u8
+
+[235] Maruthi TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/maruthitv/maruthitvhd/index.m3u8
+
+[236] Jayam TV Sivakasi [TamilStream]
+    Category: PLC
+    URL: https://jayamtv-ott.tamilstream.in/jayamtv/sivakasi/playlist.m3u8
+
+[237] Jayam TV Sivakasi [Phoenix]
+    Category: PLC
+    URL: http://jayamtv.phoenixcreations.online/jayamtv/sivakasi/playlist.m3u8
+
+[238] MTV Kodaikanal
+    Category: PLC
+    URL: https://ipcloud.live/mtv/menhd/index.m3u8
+
+[239] MSN TV
+    Category: PLC
+    URL: https://ipcloud.live/msntv/msntv/index.m3u8
+
+[240] Rio TV
+    Category: PLC
+    URL: http://ipcloud.live/riotv/riotvhd/index.m3u8
+
+[241] Ezra Bible Network
+    Category: Christian Devotional
+    URL: https://stream.onecloudlive.in/riotv/riotvmax/index.m3u8
+
+[242] Veerali TV
+    Category: PLC
+    URL: https://ipcloud.live/veerali/veeralitv/index.m3u8
+
+[243] 3 Star TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/threestartv/threestarhd/index.mpd
+
+[244] Shalini TV Tiruvannamalai
+    Category: PLC
+    URL: https://ipcloud.live/shalinitv/shalinitv/index.m3u8
+
+[245] JJ News Tamil
+    Category: International;News
+    URL: https://hlsstream.olidigital.in/jjtvnewstamil/jjtvnewstamil/index.m3u8
+
+[246] Ashoka TV
+    Category: PLC
+    URL: https://stream.ashokadigital.net/ashokaslm/ashokahd/index.m3u8
+
+[247] Rainbow TV
+    Category: PLC
+    URL: https://live.cloudvu.in/rainbowtv/ssdslive/playlist.m3u8
+
+[248] Sai TV Madurai [NOTV]
+    Category: PLC
+    URL: https://3.proxy.nellaiiptv.com/NOTV/SAITVMD/index.m3u8?token=GTR
+
+[249] Anbu TV
+    Category: PLC
+    URL: https://ipcloud.live/anbutv/anbutvhd/index.m3u8
+
+[250] Nellai TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/nellaitv/nellaitv/index.m3u8
+
+[251] SJ Surya TV
+    Category: PLC
+    URL: https://ipcloud.live/nellaitv/suriyatv/index.m3u8
+
+[252] Params TV
+    Category: PLC
+    URL: http://stream.ashokadigital.net/ashokaslm/paramstv/index.m3u8
+
+[253] Durai Melodies
+    Category: Music
+    URL: https://stream.onecloudlive.in/duraitv/classic/index.m3u8
+
+[254] Apple TV Marthandam
+    Category: PLC
+    URL: https://web.applelive.in/stream/appletv/index.m3u8
+
+[255] Eagle TV Tenkasi
+    Category: PLC
+    URL: https://ipcloud.live/eaglemedia/eagletv/index.m3u8
+
+[256] NTV Trichy [Cloud7]
+    Category: PLC
+    URL: https://stream.sscloud7.in/live/ntv/index.m3u8
+
+[257] Leo TV [IPLive]
+    Category: PLC
+    URL: https://stream.iplive.xyz/hls/leotv/index.m3u8
+
+[258] Aalaya Magimai TV
+    Category: Hindu Devotional
+    URL: https://stream.ashokadigital.net/aalayamagimaitv/aalayamagimaitv/index.m3u8
+
+[259] Dheiveegam TV
+    Category: Hindu Devotional
+    URL: https://stream.singamcloud.in/Dheiveegamtv/Dheiveegamtv/index.m3u8
+
+[260] Nisha TV
+    Category: PLC
+    URL: http://103.159.180.5:1935/live/nisha/live.m3u8
+
+[261] Amman TV
+    Category: PLC
+    URL: https://app.ashokadigital.net/app/78b1bc36/index.m3u8
+
+[262] Oscar TV
+    Category: PLC
+    URL: https://account21.livebox.co.in/oscartvhls/live.m3u8
+
+[263] Jeiyan TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/jeyantv/jeyantv/index.m3u8
+
+[264] Vidiyal TV
+    Category: PLC
+    URL: https://account11.livebox.co.in/vidyaltvhls/live.m3u8?psk=stream
+
+[265] Velan TV
+    Category: PLC
+    URL: https://cloudstream4k.com/velantvhdkanchi/bsk/playlist.m3u8
+
+[266] JRP TV
+    Category: PLC
+    URL: https://ipcloud.live/jrptv/jrphd/index.m3u8
+
+[267] Ezhil TV
+    Category: PLC
+    URL: https://rtmp.notvstream.in/ezhiltv/ezhiltv/index.m3u8
+
+[268] Kavin TV
+    Category: PLC
+    URL: https://3.proxy.nellaiiptv.com/NOTV/KAVINTV/index.m3u8?token=GTR
+
+[269] Jawahar Channel HD
+    Category: PLC
+    URL: http://jawahar.7starcloud.com:1935/jawahartv/streamingbox2/playlist.m3u8
+
+[270] 7Star TV
+    Category: PLC
+    URL: http://premium.7starcloud.com:1935/live/7star/live.m3u8
+
+[271] 7Star Music
+    Category: Music
+    URL: http://premium.7starcloud.com:1935/live/7starmusic/playlist.m3u8
+
+[272] Tamil Star TV
+    Category: PLC
+    URL: http://acv.7starcloud.com:1935/tamilstar/tv/playlist.m3u8
+
+[273] Anandam TV Madurai [TangoTV]
+    Category: PLC;SCV Platform;TCCL Platform;VK Digital Platform
+    URL: https://mumt07.tangotv.in/zHjX9OFlANANDAMTV/index.m3u8
+
+[274] Anandam Abi TV
+    Category: PLC
+    URL: https://mumt07.tangotv.in/zHjX9OFlABITV/index.m3u8
+
+[275] Anandam UTV
+    Category: PLC
+    URL: https://mumt07.tangotv.in/zHjX9OFlUTVANANDAM/index.m3u8
+
+[276] Jayaam TV
+    Category: PLC
+    URL: http://hdserver.7starcloud.com:1935/jayaamtv/jayaamtv/playlist.m3u8
+
+[277] Ragam TV
+    Category: PLC
+    URL: https://account26.livebox.co.in/RAGAMMTPhls/live.m3u8
+
+[278] Sri Krishna TV
+    Category: PLC
+    URL: http://103.110.236.141:8080/hls/erodekrishnatv/index.m3u8
+
+[279] CTN Kallakurichi
+    Category: PLC
+    URL: https://ktismaservers.in:3395/live/ctntvlive.m3u8
+
+[280] Thirumagal TV
+    Category: PLC
+    URL: https://ktismaservers.in:3207/live/thirumagaltvlive.m3u8
+
+[281] Vanavil TV
+    Category: PLC
+    URL: https://ktismaservers.in:3879/live/vanaviltvlive.m3u8
+
+[282] KCN TV
+    Category: PLC
+    URL: https://view.rcserver.in/tmp_hls12/kcntv/index.m3u8
+
+[283] Tamil Magan TV
+    Category: PLC
+    URL: http://120.138.14.16:8080/hls/tamilmagantv/index.m3u8
+
+[284] Namathu Sangamam TV
+    Category: PLC
+    URL: http://yours.7starcloud.com:1935/live/nmtv/playlist.m3u8
+
+[285] Yours TV
+    Category: PLC
+    URL: http://yours.7starcloud.com:1935/live/yourstv/playlist.m3u8
+
+[286] Aadhavan Tamil TV
+    Category: PLC
+    URL: http://aadhavantamiltv.phoenixcreations.online/aadhavantamiltv/aadhavantamiltv/index.m3u8
+
+[287] Sky Media
+    Category: PLC
+    URL: http://skymedia.phoenixcreations.online/skymedia/skymedia/index.m3u8
+
+[288] Thirumalai TV Vadipatti
+    Category: PLC
+    URL: https://ipcloud.live/thirumalaitv/madurai/index.m3u8
+
+[289] SS TV Nagercoil
+    Category: PLC
+    URL: https://server.sscloud7.in/live/sshd/playlist.m3u8
+
+[290] Jith TV
+    Category: PLC
+    URL: https://sscloud7.com/live/jithtv/index.m3u8
+
+[291] Bhakthi TV
+    Category: PLC
+    URL: https://live.sscloud7.in/live/bhakthitv/index.m3u8
+
+[292] Sky TV
+    Category: PLC
+    URL: https://sscloud7.com/live/skytv/index.m3u8
+
+[293] Boys TV
+    Category: PLC
+    URL: https://rtmp.applelive.in/boystv/boystv/index.m3u8
+
+[294] Maniway TV
+    Category: PLC
+    URL: https://live.singamcloud.in/bsctv/bsctv/index.m3u8
+
+[295] King TV Alangulam
+    Category: PLC
+    URL: https://server.sscloud7.in/kingtv/kingtv/index.m3u8
+
+[296] KM Television
+    Category: PLC
+    URL: https://stream.ashokadigital.net/KMTELEVISION/kmtelevision/index.m3u8?token=dHVsbml0aXNhZHVtZHVt
+
+[297] KM Music
+    Category: Music
+    URL: https://stream.ashokadigital.net/kmmusic/kmmusic/index.m3u8
+
+[298] Sky TV Karur
+    Category: PLC
+    URL: https://view.rcserver.in/tmp_hls11/skytv/index.m3u8
+
+[299] Udhayam TV Madurai
+    Category: PLC
+    URL: https://view.rcserver.in/tmp_hls8/udhayamtv/index.m3u8
+
+[300] Jayam TV Karur
+    Category: PLC
+    URL: https://view.rcserver.in/tmp_hls10/jayamtvkarur/index.m3u8
+
+[301] Jeyasubbu TV HD
+    Category: PLC
+    URL: https://view.rcserver.in/tmp_hls15/jeyasubbumovies/index.m3u8
+
+[302] Tamilnesan TV
+    Category: PLC
+    URL: https://view.rcserver.in/tmp_hls14/tntv/index.m3u8
+
+[303] Amma Vision
+    Category: PLC
+    URL: https://view.rcserver.in/tmp_hls19/ammavision/index.m3u8
+
+[304] Jayam TV
+    Category: PLC
+    URL: https://view.rcserver.in/tmp_hls20/index.m3u8
+
+[305] QMax Plus
+    Category: PLC
+    URL: https://view.rcserver.in/tmp_hls22/qmaxtv/index.m3u8
+
+[306] Thirai TV
+    Category: Movies
+    URL: https://live.apcloud.in/thiraitv/thiraitvhd/index.m3u8
+
+[307] Thirai TV [APServer]
+    Category: Movies
+    URL: https://view.apserver.in/tmp_hls2/thiraitv/index.m3u8
+
+[308] Thirai Music
+    Category: Music
+    URL: https://view.apserver.in/tmp_hls1/thiraitvplus/index.m3u8
+
+[309] Dharumai Adeenam TV
+    Category: Hindu Devotional
+    URL: https://stream.onecloudlive.in/taitaltv/livetv/index.m3u8
+
+[310] Bharathi Thirai Ulagam
+    Category: PLC
+    URL: https://bharathitv2-sscloud7-in.proxy.nellaiiptv.com/live/bharathithiraiulagam/index.m3u8
+
+[311] Ayya Vaikuntar TV
+    Category: Hindu Devotional
+    URL: https://server.sscloud7.in/live/ayyatv/index.mpd
+
+[312] Thendral TV Theni
+    Category: PLC
+    URL: https://sscloud7.com/live/thendraltv/index.m3u8
+
+[313] Senthur TV
+    Category: PLC
+    URL: http://senthurtv.phoenixcreations.online/senthurtv/senthurtv/playlist.m3u8
+
+[314] Sri Velavan TV (Alternate Feed)
+    Category: PLC
+    URL: http://rtmp.applelive.in/velavantv/srivelavantvultrahd/index.m3u8
+
+[315] Cuddalore Voice TV
+    Category: PLC
+    URL: https://stream.ashokadigital.net/voicetv/voicetvhd/index.m3u8
+
+[316] Irattaipaathai TV
+    Category: PLC
+    URL: https://account31.livebox.co.in/IRATTAIPAATHAITVhls/live.m3u8
+
+[317] Velan TV Tirunelveli
+    Category: PLC
+    URL: http://velantv.phoenixcreations.online/velantv/velantv/index.m3u8
+
+[318] Malligai TV
+    Category: PLC
+    URL: https://server.sscloud7.in/live/malligai/index.mpd
+
+[319] CTN Channel
+    Category: PLC
+    URL: http://217.216.79.247/ctn/channel/index.m3u8
+
+[320] King TV Ranipet
+    Category: PLC
+    URL: https://ipcloud.live/kingtv/kingtv/index.m3u8
+
+[321] Yatra TV
+    Category: Hindu Devotional
+    URL: https://stream.onecloudlive.in/yatra/yatratv/index.m3u8
+
+[322] MDN TV
+    Category: PLC
+    URL: https://account18.livebox.co.in/IMAGESEQUENCEhls/live.m3u8
+
+[323] GSJK TV
+    Category: PLC
+    URL: http://live.brightmeltech.in/gsjktv/gsjktv.m3u8
+
+[324] Ramya TV
+    Category: PLC
+    URL: http://live.brightmeltech.in/ramyatv/ramyatv.m3u8
+
+[325] Aarthi TV
+    Category: PLC
+    URL: https://3.proxy.nellaiiptv.com/NOTV/AARTHITV/index.m3u8?token=GTR
+
+[326] Kanchi TV
+    Category: PLC
+    URL: https://3.proxy.nellaiiptv.com/NOTV/KANCHITV/index.m3u8?token=GTR
+
+[327] Jenifer TV
+    Category: PLC
+    URL: https://live1.sscloud7.in/live/jenifertv/index.m3u8
+
+[328] Raghul TV
+    Category: PLC
+    URL: https://live1.sscloud7.in/live/raghultv/index.m3u8
+
+[329] Eesan TV
+    Category: PLC
+    URL: https://live.singamcloud.in/eesantv/eesantv/index.m3u8
+
+[330] Vajra TV
+    Category: PLC;VK Digital Platform
+    URL: https://app.ashokadigital.net/app/3b31be9f/index.m3u8
+
+[331] Vajra TV (TACTV)
+    Category: PLC;TACTV Platform
+    URL: http://mmtv.stream.onecloudlive.in/mmtv/vajratvtac/index.m3u8
+
+[332] Vajram TV
+    Category: PLC;VK Digital Platform
+    URL: https://app.ashokadigital.net/app/68b001a0/index.m3u8
+
+[333] Citi Channel
+    Category: PLC
+    URL: https://stream.ashokadigital.net/cititv/cititvhd/index.m3u8
+
+[334] Azhagi TV
+    Category: PLC
+    URL: https://view.rcserver.in/tmp_hls17/azhagitv/index.m3u8
+
+[335] Polimer Channel
+    Category: PLC
+    URL: http://polimer.7starcloud.com:1935/polimer/live/live.m3u8
+
+[336] Hansitha TV
+    Category: PLC
+    URL: https://air.rojatv.cloud/hanshitha/tv/index.m3u8
+
+[337] MTV Trichy
+    Category: PLC
+    URL: https://stream.iplive.xyz/mtv/mtvhd/index.m3u8
+
+[338] Jeyam TV
+    Category: PLC
+    URL: https://live.sscloud7.in/live/jeyamtv/index.m3u8
+
+[339] Ohm TV
+    Category: PLC
+    URL: https://live1.sscloud7.in/live/ohmtv/playlist.m3u8
+
+[340] SNR TV
+    Category: PLC
+    URL: https://3.proxy.nellaiiptv.com/NOTV/ASOSACHENNAI/index.m3u8?token=GTR
+
+[341] Siddhar TV
+    Category: PLC
+    URL: https://3.proxy.nellaiiptv.com/DINESH/PT2/index.m3u8?token=YAAL
+
+[342] Siddhar Isai
+    Category: Music
+    URL: https://3.proxy.nellaiiptv.com/DINESH/PT/index.m3u8?token=YAAL
+
+[343] Smart Sri
+    Category: PLC
+    URL: https://mumbai-edge.smartplaytv.in/smartsri/index.m3u8
+
+[344] Raagam Friend's TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/raagamtv/raagamtvhd/index.m3u8
+
+[345] Super TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/superstartv/superstarhd/index.m3u8
+
+[346] KRN TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/krntv/krntvhd/index.m3u8
+
+[347] Aramm TV
+    Category: PLC
+    URL: https://singamcloud.in/arammtv/arammtv/index.m3u8
+
+[348] Fort Channels
+    Category: PLC
+    URL: https://stream.onecloudlive.in/forttv/fortchannel/index.m3u8
+
+[349] Solai TV
+    Category: PLC
+    URL: https://ipcloud.live/solaitv/solaihd/index.m3u8
+
+[350] Jeyam Plus
+    Category: PLC;TACTV Platform;VK Digital Platform
+    URL: https://ipcloud.live/mmtv/jeyamplus/index.m3u8
+
+[351] Mallai TV
+    Category: PLC
+    URL: https://rojatv.cloud/mallaitv/mallaitv/index.m3u8
+
+[352] MM TV
+    Category: PLC;VK Digital Platform;TACTV Platform
+    URL: https://ipcloud.live/mmtv/mmtvhd/index.m3u8
+
+[353] Salaam TV
+    Category: Islamic Devotional
+    URL: https://stream.onecloudlive.in/salamtv/salamtvhd/index.m3u8
+
+[354] Mahimai TV
+    Category: Christian Devotional
+    URL: https://ktismaservers.in:3161/live/mahimaitvlive.m3u8
+
+[355] Mahimai TV [IPTelevision]
+    Category: Christian Devotional
+    URL: https://mahimai.iptelevision.live/mahimaitv/video.m3u8
+
+[356] Blood Of Jesus TV
+    Category: Christian Devotional
+    URL: https://live1.sscloud7.in/live/yovantv/playlist.m3u8
+
+[357] Matha TV
+    Category: Christian Devotional
+    URL: https://live.mathatv.in/mathatv/mathatv/index.m3u8
+
+[358] Joy Goodnews TV [IndiaMatrix]
+    Category: Christian Devotional
+    URL: http://indiamatrix.in/goodnewstv/goodnewstv.m3u8
+
+[359] Sharon TV
+    Category: Christian Devotional
+    URL: https://sscloud7.com/live/sharontv/index.m3u8
+
+[360] Vinmeen Music
+    Category: Christian Devotional;Music
+    URL: https://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
+
+[361] JC TV
+    Category: Christian Devotional
+    URL: https://ipcloud.live/novamani/jctv/index.m3u8
+
+[362] King Of Glory TV
+    Category: Christian Devotional
+    URL: https://ipcloud.live/novamani/kingofglorytv/index.m3u8
+
+[363] Love Joy TV
+    Category: Christian Devotional
+    URL: https://ipcloud.live/novamani/lovejoytv/index.m3u8
+
+[364] Divine Music
+    Category: Christian Devotional;Music
+    URL: https://ipcloud.live/novamani/divinetv/index.m3u8
+
+[365] JTK TV
+    Category: Christian Devotional
+    URL: http://jtktv.indiamatrix.in/jtktvkay/jtktvkay.m3u8
+
+[366] Shekinah TV
+    Category: Christian Devotional
+    URL: https://iptvhls.inet.moe/hls/newchannel_src/index.m3u8
+
+[367] Cross TV
+    Category: Christian Devotional
+    URL: https://ytv.iptv.pics/hls/cross_src/index.m3u8
+
+[368] Jeyam Television
+    Category: Christian Devotional
+    URL: https://jeyamtv.livebox.co.in/JeyamTelevisionhls/JeyamTelevision.m3u8
+
+[369] PCN Channel
+    Category: PLC
+    URL: https://pcntv.wmsdigital.in/hls/gtv/stream.m3u8
+
+[370] Thendral TV Alangulam
+    Category: PLC
+    URL: http://almthendraltv.phoenixcreations.online/almthendraltv/almthendraltv/playlist.m3u8
+
+[371] Jay TV
+    Category: PLC;TCCL Platform
+    URL: https://stream.onecloudlive.in/jaytv/jaytvhd/index.m3u8
+
+[372] Annai TV
+    Category: PLC;TCCL Platform
+    URL: https://annainew.livebox.co.in/annailivehls/live.m3u8
+
+[373] 7Star Television
+    Category: PLC;TCCL Platform
+    URL: https://annainew.livebox.co.in/7startvhls/livestream.m3u8
+
+[374] Amma TV
+    Category: PLC
+    URL: https://annainew.livebox.co.in/ammatvhls/live.m3u8
+
+[375] Sri Sai TV
+    Category: PLC
+    URL: https://annainew.livebox.co.in/srisaihls/live.m3u8
+
+[376] Isai Saral
+    Category: Music
+    URL: https://srnet-bmlive-net.proxy.nellaiiptv.com/isaisaral/mystream/playlist.m3u8
+
+[377] SR Musix
+    Category: Music
+    URL: https://srnet-bmlive-net.proxy.nellaiiptv.com/srmusic/myStream/playlist.m3u8
+
+[378] Arul TV
+    Category: PLC
+    URL: http://arulstream.in:1935/ArulTv/live/playlist.m3u8
+
+[379] Kanchi Media
+    Category: PLC
+    URL: https://3.proxy.nellaiiptv.com/NOTV/KANCHIMEDIA/index.m3u8?token=GTR
+
+[380] Ayya Agilathirattu TV
+    Category: Hindu Devotional
+    URL: https://live1.sscloud7.in/live/ayyatv/playlist.m3u8
+
+[381] MonTamil
+    Category: International
+    URL: http://148.113.170.17:8091/montamil/index.m3u8
+
+[382] Analai Express
+    Category: International
+    URL: https://3.proxy.nellaiiptv.com/ANALAI_MOVIE/index.m3u8?token=GTR
+
+[383] Analai Music
+    Category: International;Music
+    URL: http://148.113.170.17:8091/analaimusic/index.m3u8
+
+[384] Analai Express Replay
+    Category: International;Hindu Devotional
+    URL: http://148.113.170.17:8091/analaireplay1/index.m3u8
+
+[385] Rudhram TV
+    Category: International;Hindu Devotional
+    URL: http://148.113.170.17:8091/rudhram/index.m3u8
+
+[386] Naga TV
+    Category: PLC
+    URL: http://nagatv.phoenixcreations.online/nagatv/nagatv/index.m3u8
+
+[387] Subash TV Tenkasi [Cloud7]
+    Category: PLC
+    URL: https://server.sscloud7.in/live/subashhd/index.m3u8
+
+[388] Surya TV
+    Category: PLC
+    URL: https://surya.suriyantv.in/hls/app/index.m3u8
+
+[389] Kaka TV
+    Category: PLC
+    URL: http://kakatv.phoenixcreations.online/kakatv/kaka/index.m3u8
+
+[390] Joshua TV
+    Category: Christian Devotional
+    URL: http://joshuatv.phoenixcreations.online/joshuatv/joshuatv/index.m3u8
+
+[391] Pasamalar TV
+    Category: PLC
+    URL: https://stream.sscloud7.in/live/paasamalartv/index.m3u8
+
+[392] Karthick TV
+    Category: PLC
+    URL: https://ipcloud.live/karthick/karthicktvhd/index.m3u8
+
+[393] Vimal TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/karthick/vimaltv/index.m3u8
+
+[394] Selva Tamil TV
+    Category: PLC
+    URL: https://stream.sscloud7.in/live/selvatamiltv/index.mpd
+
+[395] Super TV Dindigul
+    Category: PLC
+    URL: http://122.165.249.163:8080/hls/supertv/index.m3u8
+
+[396] Super TV Dindigul [RojaTV]
+    Category: PLC
+    URL: https://stream.rojatv.cloud/super/tv/index.m3u8
+
+[397] Ark TV
+    Category: Christian Devotional
+    URL: https://ark.inet.moe/ark/index.m3u8
+
+[398] Ark TV [Ktisma]
+    Category: Christian Devotional
+    URL: https://ktismaservers.in:3917/live/arktvlive.m3u8
+
+[399] Kaalai TV
+    Category: PLC
+    URL: https://view.rcserver.in/tmp_hls23/kaalaitv/index.m3u8
+
+[400] SK TV Karur
+    Category: PLC
+    URL: https://view.rcserver.in/tmp_hls24/sktv/index.m3u8
+
+[401] SK Music
+    Category: Music
+    URL: https://view.rcserver.in/tmp_hls18/skmusic/index.m3u8
+
+[402] Ruhasha TV
+    Category: PLC
+    URL: https://live.applelive.in/ruhashatv/ruhashatv/index.m3u8
+
+[403] Ezhil TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/ezhiltv/ezhilhd/index.m3u8
+
+[404] Koodal TV
+    Category: PLC
+    URL: https://web.applelive.in/koodaltv/koodaltv/index.m3u8
+
+[405] Crayonz TV
+    Category: PLC
+    URL: https://sanplayout.xyz/live2/crayonztv/index.m3u8
+
+[406] Arputhar Yesu TV
+    Category: Christian Devotional
+    URL: https://arputharyesutv.arputharyesutv.com/live/md/index.m3u8
+
+[407] Arputhar Yesu TV [Livebox]
+    Category: Christian Devotional
+    URL: https://account33.livebox.co.in/jesushelpshls/live.m3u8
+
+[408] Fox TV
+    Category: Christian Devotional
+    URL: https://stream.onecloudlive.in/foxtv/foxtv/index.m3u8
+
+[409] Sri Arjun TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/sriarjuntv/sriarjun/index.m3u8
+
+[410] Om TV
+    Category: PLC
+    URL: http://omtv.7starcloud.com:1935/omtv/live/live.m3u8
+
+[411] CTN TV
+    Category: PLC
+    URL: https://ipcloud.live/ctn/ctntvhd/index.m3u8
+
+[412] Arasu TV
+    Category: PLC
+    URL: https://ipcloud.live/ctn/arasu/index.m3u8
+
+[413] Magalir TV
+    Category: PLC
+    URL: https://ipcloud.live/ctn/magalir/index.m3u8
+
+[414] Tamil TV
+    Category: Christian Devotional
+    URL: https://ktismaservers.in:3220/hybrid/play.m3u8
+
+[415] Family Channel
+    Category: Christian Devotional
+    URL: https://2-fss-2.streamhoster.com/pl_118/203324-1410936-1/chunklist.m3u8
+
+[416] Life TV
+    Category: Christian Devotional
+    URL: https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
+
+[417] News 80 Tamil
+    Category: News
+    URL: https://3.proxy.nellaiiptv.com/NOTV/NEWS80/index.m3u8?token=GTR
+
+[418] C TV
+    Category: PLC
+    URL: http://ctv.phoenixcreations.online/ctv/ctv/playlist.m3u8
+
+[419] Channel 1062
+    Category: General / Uncategorized
+    URL: http://rktv.phoenixcreations.online/rktv/rktv/index.m3u8
+
+[420] MM TV Valliyur
+    Category: PLC
+    URL: http://mmtv.phoenixcreations.online/mmtv/mm/index.mpd
+
+[421] Manasu TV
+    Category: PLC;Badaga
+    URL: https://stream6.livebox.co.in/manasutvhls/live.m3u8
+
+[422] Madura TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/mm/maduratv/index.m3u8
+
+[423] Star Media
+    Category: PLC
+    URL: https://rtmp.notvstream.in/starmedia/starmedia/index.m3u8
+
+[424] Jayam TV Polur
+    Category: PLC
+    URL: https://live.singamcloud.in/jayamtv/jayamki/index.m3u8
+
+[425] Ithazh TV
+    Category: PLC
+    URL: http://148.113.170.17:8091/ithal/index.m3u8
+
+[426] Mathan TV
+    Category: PLC
+    URL: https://ipcloud.live/mathantv/mathantv/index.mpd
+
+[427] Hello Tamil TV
+    Category: PLC
+    URL: https://view.rcserver.in/tmp_hls26/hellotamiltv/index.m3u8
+
+[428] City TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/citytv/citytv/index.m3u8
+
+[429] Shalwin TV
+    Category: PLC
+    URL: https://live3.onecloudlive.in/shalwintv/shalwintv/index.m3u8
+
+[430] TTN TV
+    Category: PLC
+    URL: https://web.applelive.in/stream/ttntv/index.m3u8
+
+[431] Omm TV Nagercoil
+    Category: Hindu Devotional
+    URL: https://web.applelive.in/ommtv/ommtv/index.m3u8
+
+[432] Kanna TV
+    Category: PLC
+    URL: https://web.applelive.in/stream/kktv/index.m3u8
+
+[433] Malar TV Surandai
+    Category: PLC
+    URL: http://malartv.sscloud7.in/malartv/malartv/index.m3u8
+
+[434] Thendral TV Chennai
+    Category: PLC
+    URL: https://stream.ashokadigital.net/thendraltv/thendraltv/index.m3u8
+
+[435] Ratchagar TV
+    Category: Christian Devotional
+    URL: http://ratchagartv.phoenixcreations.online/ratchagartv/ratchagar/index.m3u8
+
+[436] A1 TV Ariyalur
+    Category: PLC
+    URL: https://app.ashokadigital.net/app/0fca457c/index.m3u8
+
+[437] VDS TV
+    Category: PLC
+    URL: http://117.247.192.123:8080/vds/vds.m3u8?psk=123456
+
+[438] UTV Coimbatore
+    Category: PLC;TCCL Platform
+    URL: http://cdn.utvtamil.in/utvkovai/utv/playlist.m3u8
+
+[439] S TV
+    Category: PLC
+    URL: https://apis.avmediawork.in/tvhls/stv.m3u8
+
+[440] ATN [RojaTV]
+    Category: PLC
+    URL: https://stream.rojatv.cloud/ATNHD/onecloud/index.m3u8
+
+[441] Lucky TV
+    Category: PLC
+    URL: https://live3.onecloudlive.in/luckytv/luckytvhd/index.m3u8
+
+[442] Nakkubetta TV
+    Category: PLC;Badaga
+    URL: https://rojatv.cloud/nbtv/nbtv/index.m3u8
+
+[443] V Tamil
+    Category: PLC;VK Digital Platform
+    URL: https://hlsstream.olidigital.in/vtv/vtv/index.m3u8
+
+[444] V Tamil [NOTV]
+    Category: PLC;VK Digital Platform
+    URL: https://3.proxy.nellaiiptv.com/NOTV/VTV1/index.m3u8?token=GTR
+
+[445] V Tamil [VK Digital]
+    Category: PLC;VK Digital Platform
+    URL: https://real-vk.proxy.nellaiiptv.com/VTV/index.m3u8
+
+[446] Bhairava TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/bhairavatv/bhairavahd/index.m3u8
+
+[447] Sabari TV Aruppukottai
+    Category: PLC
+    URL: https://stream.onecloudlive.in/sabaritv/sabaritvhd/index.m3u8
+
+[448] Joy TV HD
+    Category: Christian Devotional
+    URL: https://ktismaservers.in:3412/live/joytvlive.m3u8
+
+[449] Arighni TV
+    Category: PLC;Unknown Platform
+    URL: https://dmtv.iptv.pics/live/dmtv/index.m3u8
+
+[450] Sooriyan TV
+    Category: International
+    URL: https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
+
+[451] Sooriyan TV Cinema
+    Category: International;Movies
+    URL: https://live20.bozztv.com/giatv/giatv-Sooriyantv/Sooriyantv/playlist.m3u8
+
+[452] Uthamiyae TV
+    Category: Christian Devotional
+    URL: https://kali.vdopanel.com:3169/stream/play.m3u8
+
+[453] Samugam Media
+    Category: International
+    URL: https://ca.streamjo.com/live/samugam.m3u8
+
+[454] EET TV
+    Category: International
+    URL: https://eu.streamjo.com/eetlive/eettv.m3u8
+
+[455] Britain Tamil Bhakthi
+    Category: International;Hindu Devotional;TCCL Platform
+    URL: http://btc.inet.moe/live/btctv/index.m3u8
+
+[456] Britain Tamil Bhakthi [IPTelevision]
+    Category: International;Hindu Devotional;TCCL Platform
+    URL: https://tcclbtc.iptelevision.live/btc/video.m3u8
+
+[457] ME24 Tamil
+    Category: International
+    URL: https://stream.onecloudlive.in/orange/ME24TAMIL/index.m3u8
+
+[458] Meiveli TV
+    Category: International;Christian Devotional
+    URL: https://meiveli.livebox.co.in/MEIVELIMAINhls/meivelimain.m3u8
+
+[459] TWOC TV
+    Category: Christian Devotional
+    URL: https://rtmp.applelive.in/twoctv/twoctv/index.m3u8
+
+[460] Imai TV
+    Category: International
+    URL: https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8
+
+[461] Go Revival TV
+    Category: Christian Devotional
+    URL: https://ktismaservers.in:3870/live/gorevivaltvlive.m3u8
+
+[462] Salvation TV
+    Category: Christian Devotional
+    URL: https://ktismaservers.in:3902/live/salvationtvlive.m3u8
+
+[463] My Faith TV
+    Category: Christian Devotional
+    URL: https://stream.iplive.xyz/faithtv/faithtv/index.m3u8
+
+[464] Adhisayam TV
+    Category: Christian Devotional
+    URL: https://livetv.adhisayamtv.org/adhisayamtv/83a062a18a761b948a73ad2ba7747a8f.sdp/playlist.m3u8
+
+[465] Thuthi TV
+    Category: Christian Devotional
+    URL: http://indiamatrix.in/thuthitv/thuthitv.m3u8
+
+[466] Sirustigar TV
+    Category: Christian Devotional
+    URL: http://indiamatrix.in/sirustigartv/sirustigartv.m3u8
+
+[467] Peniel TV
+    Category: Christian Devotional
+    URL: http://indiamatrix.in/penieltv/penieltv.m3u8
+
+[468] Silver Sat Media
+    Category: PLC
+    URL: https://sanplayout.xyz/live2/silversatmedia/index.m3u8
+
+[469] Thangam TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/thangamtv/thangamtvhd/index.m3u8
+
+[470] Good News Time
+    Category: Christian Devotional
+    URL: https://5dd3981940faa.streamlock.net/goodnewstime/goodnewstime/playlist.m3u8
+
+[471] Jayam TV Trichy
+    Category: PLC
+    URL: https://live.onecloudlive.in/jmhd/jmtv/index.m3u8
+
+[472] Kathir TV
+    Category: PLC
+    URL: https://stream.ipcloud.live/kathirtvhd/livestream/index.m3u8
+
+[473] PG TV
+    Category: PLC
+    URL: https://app.xstream.onecloudlive.in/pgtv/pgtvhd/index.m3u8
+
+[474] Prime Music
+    Category: Music
+    URL: https://live.primestream.in/prime/music/index.m3u8
+
+[475] Deepam TV
+    Category: PLC
+    URL: http://deepam.7starcloud.com:1935/live/deepamtv/live.m3u8
+
+[476] Params TV
+    Category: PLC
+    URL: http://shreeparams.7starcloud.com:1935/live/paramstv/live.m3u8
+
+[477] Shakthi Channel
+    Category: PLC
+    URL: https://cloudstream4k.com/shakthihd/bsk/playlist.m3u8
+
+[478] Sai TV Tenkasi
+    Category: PLC
+    URL: http://saitv.sscloud7.in/live/livesaitv/index.m3u8
+
+[479] MR TV
+    Category: PLC
+    URL: https://live.apcloud.in/mrtv/mrtvhd/index.mpd
+
+[480] Dolphin TV Sivakasi
+    Category: PLC
+    URL: https://view.rcserver.in/tmp_hls31/dolphintv/index.m3u8
+
+[481] Aruljothi TV
+    Category: Hindu Devotional;TCCL Platform
+    URL: https://jothi.inet.moe/jothitv/index.m3u8
+
+[482] Banyan TV
+    Category: PLC
+    URL: https://view.rcserver.in/tmp_hls32/banyantv/index.m3u8?token=YW1hemV5
+
+[483] D TV
+    Category: PLC
+    URL: https://view.rcserver.in/tmp_hls33/dtv/index.m3u8?token=YW1hemV5
+
+[484] DM TV
+    Category: PLC
+    URL: https://view.rcserver.in/tmp_hls34/dmtv/index.m3u8?token=YW1hemV5
+
+[485] BW TV
+    Category: PLC
+    URL: https://view.rcserver.in/tmp_hls35/bwtv/index.m3u8?token=YW1hemV5
+
+[486] Pothigai Prime
+    Category: PLC
+    URL: https://view.apserver.in/tmp_hls5/pothigaiprime/index.m3u8
+
+[487] Idhayam TV
+    Category: PLC
+    URL: https://sanplayout.xyz/live2/idhayamtv/index.m3u8
+
+[488] Idhayam Kids
+    Category: Kids
+    URL: https://sanplayout.xyz/live2/idhayamkidz/index.m3u8
+
+[489] Jeevaneerodai TV
+    Category: Christian Devotional
+    URL: https://web.applelive.in/jeevaneerodaitv/jeevaneerodaitv/index.m3u8
+
+[490] My Jesus TV
+    Category: Christian Devotional
+    URL: https://5790d294af2dc.streamlock.net/myjesustv/myjesustv/playlist.m3u8
+
+[491] Bible TV
+    Category: Christian Devotional
+    URL: https://account33.livebox.co.in/bibletvhls/live.m3u8
+
+[492] Heaven TV
+    Category: Christian Devotional
+    URL: https://heaventv.livebox.co.in/heaventvhls/live.m3u8
+
+[493] Channel 316
+    Category: Christian Devotional
+    URL: https://channel316.livebox.co.in/c316hls/live.m3u8
+
+[494] Grace TV
+    Category: Christian Devotional
+    URL: https://gracetvcgl.livebox.co.in/Gracetvhls/Gracetv.m3u8
+
+[495] Aathi TV
+    Category: International
+    URL: https://5790d294af2dc.streamlock.net/aathitv/aathitv/playlist.m3u8
+
+[496] TNSE
+    Category: International
+    URL: https://5790d294af2dc.streamlock.net/mchanneltv24/mchanneltv24/playlist.m3u8
+
+[497] Chola TV
+    Category: PLC
+    URL: https://hlsstream.olidigital.in/cholatv/cholatv/index.m3u8?token=dHVsbml0X3N0ZWFsc19zaGl0
+
+[498] Retro Music
+    Category: Music
+    URL: https://sanplayout.xyz/live2/retromusichd/playlist.m3u8
+
+[499] Madurai Arasi TV
+    Category: PLC
+    URL: https://app.xstream.onecloudlive.in/maduraiarasi/livestream/index.m3u8
+
+[500] NRJ TV
+    Category: International;Hindu Devotional
+    URL: https://3.proxy.nellaiiptv.com/DINESH/NRJTV/index.m3u8?token=YAAL
+
+[501] PJ TV
+    Category: International
+    URL: https://3.proxy.nellaiiptv.com/DINESH/PJTV/index.m3u8?token=YAAL
+
+[502] Eye Tamil
+    Category: International
+    URL: https://2.proxy.nellaiiptv.com/EyeMedia/EyeTV/index.m3u8
+
+[503] Eye Tamil Music
+    Category: International;Music
+    URL: https://2.proxy.nellaiiptv.com/EyeMedia/music/index.m3u8
+
+[504] Eye Tamil Comedy
+    Category: International;Comedy
+    URL: https://2.proxy.nellaiiptv.com/EyeMedia/comedy/index.m3u8
+
+[505] Prince TV
+    Category: PLC
+    URL: http://princetv.phoenixcreations.online/princetv/prince/playlist.m3u8
+
+[506] Sri TV
+    Category: PLC
+    URL: http://sritv.phoenixcreations.online/sritv/sri/playlist.m3u8
+
+[507] Kings TV
+    Category: PLC
+    URL: http://kingstv.phoenixcreations.online/kingstv/kings/playlist.m3u8
+
+[508] Sri Varahi TV
+    Category: VK Digital Platform;SCV Platform
+    URL: https://real-vk.proxy.nellaiiptv.com/SRIVARAHITV/index.m3u8
+
+[509] Telemax Tamil
+    Category: SCV Platform;TCCL Platform;VK Digital Platform;
+    URL: https://real-vk.proxy.nellaiiptv.com/TELEMAX/index.m3u8
+
+[510] Diamond TV
+    Category: VK Digital Platform;PLC
+    URL: https://real-vk.proxy.nellaiiptv.com/DIAMONDTV/index.m3u8
+
+[511] Diamond Talkies
+    Category: VK Digital Platform;Movies
+    URL: https://real-vk.proxy.nellaiiptv.com/DIAMONDTALKIES/index.m3u8
+
+[512] Diamond Music
+    Category: VK Digital Platform;Music
+    URL: https://real-vk.proxy.nellaiiptv.com/DIAMONDMUSIC/index.m3u8
+
+[513] Sri Vinayaga TV
+    Category: PLC
+    URL: https://1.proxy.nellaiiptv.com/srivinayagatv/hd/index.m3u8
+
+[514] Sri Vinayaga Movies
+    Category: Movies
+    URL: https://1.proxy.nellaiiptv.com/srivinayagatv/movies/index.m3u8
+
+[515] Sri Vinayaga Music
+    Category: Music
+    URL: https://1.proxy.nellaiiptv.com/srivinayagatv/music/index.m3u8
+
+[516] Sri Vinayaga Hollywood
+    Category: Movies
+    URL: https://1.proxy.nellaiiptv.com/srivinayagatv/hollywood/playlist.m3u8
+
+[517] PN TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/pntv/pntv/index.m3u8
+
+[518] Sun Smart TV
+    Category: PLC;VK Digital Platform
+    URL: https://live3.onecloudlive.in/sunsmart/sunsmarttvhd/index.m3u8
+
+[519] Sun Smart TV [VK Digital]
+    Category: PLC;VK Digital Platform
+    URL: https://real-vk.proxy.nellaiiptv.com/SUNSMARTTV/index.m3u8
+
+[520] SD Media (No Signal)
+    Category: PLC
+    URL: https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
+
+[521] Thoma TV
+    Category: Christian Devotional
+    URL: https://stream.onecloudlive.in/thoma/thoma/index.m3u8
+
+[522] Sakthi TV (VK Digital)
+    Category: PLC;VK Digital Platform
+    URL: https://real-vk.proxy.nellaiiptv.com/SAKTHITV/index.m3u8
+
+[523] Lucky TV Tenkasi
+    Category: PLC
+    URL: https://live.onecloudlive.in/luckytvtk/luckytv/index.m3u8
+
+[524] RS TV
+    Category: PLC
+    URL: https://rstv.stream.onecloudlive.in/rstv/rstvhd/index.m3u8
+
+[525] Vaagai TV
+    Category: PLC
+    URL: https://stream.ashokadigital.net/VAAGAITV/vaagaitv/index.m3u8
+
+[526] Pugal TV
+    Category: PLC
+    URL: http://pugal.phoenixcreations.online/pugaltv/pugal/playlist.m3u8
+
+[527] MTN TV
+    Category: PLC
+    URL: https://rtmp.applelive.in/mtntv/mtntv/index.m3u8
+
+[528] Bala TV
+    Category: PLC
+    URL: http://balatv.phoenixcreations.online/balatv/bala/playlist.m3u8
+
+[529] Kirubai TV
+    Category: Christian Devotional
+    URL: https://live.sscloud7.in/live/kirubaitv/index.m3u8
+
+[530] Thogai TV
+    Category: PLC
+    URL: https://thogaitv.stream.onecloudlive.in/thogaitv/12345678/index.m3u8
+
+[531] Sarah TV
+    Category: PLC
+    URL: https://sarah-7starcloud-com.proxy.nellaiiptv.com/live/sarahtv/live.m3u8
+
+[532] Himalaya TV
+    Category: PLC
+    URL: https://app.ashokadigital.net/app/eb990565/index.m3u8
+
+[533] Vaanam TV
+    Category: International
+    URL: https://lanka.vaanam24.com:3712/hybrid/play.m3u8
+
+[534] Abnaz TV
+    Category: PLC
+    URL: https://live.toponlinetv.com/abnaztv/index.m3u8
+
+[535] KNR Max
+    Category: PLC
+    URL: http://stream.onecloudlive.in/knrtv/knrtvhd/index.m3u8
+
+[536] CTN Salem
+    Category: PLC
+    URL: http://ctntv.7starcloud.com:1935/live/ctn/live.m3u8
+
+[537] Yugam TV
+    Category: International
+    URL: http://198.144.149.206/DINESH/YUGAM/index.m3u8?token=YAAL
+
+[538] Duresh TV
+    Category: PLC
+    URL: https://real-vk.proxy.nellaiiptv.com/PDPTV/index.m3u8
+
+[539] Sri Varahi TV
+    Category: SCV Platform
+    URL: https://real-vk.proxy.nellaiiptv.com/SRIVARAHITV/index.m3u8
+
+[540] Telemax Tamil
+    Category: SCV Platform;TCCL Platform
+    URL: https://real-vk.proxy.nellaiiptv.com/TELEMAX/index.m3u8
+
+[541] Diamond TV
+    Category: PLC
+    URL: https://real-vk.proxy.nellaiiptv.com/DIAMONDTV/index.m3u8
+
+[542] Diamond Talkies
+    Category: Movies
+    URL: https://real-vk.proxy.nellaiiptv.com/DIAMONDTALKIES/index.m3u8
+
+[543] Diamond Music
+    Category: Music
+    URL: https://real-vk.proxy.nellaiiptv.com/DIAMONDMUSIC/index.m3u8
+
+[544] Sri Vinayaga TV
+    Category: PLC
+    URL: https://1.proxy.nellaiiptv.com/srivinayagatv/hd/index.m3u8
+
+[545] Sri Vinayaga Movies
+    Category: Movies
+    URL: https://1.proxy.nellaiiptv.com/srivinayagatv/movies/index.m3u8
+
+[546] Sri Vinayaga Music
+    Category: Music
+    URL: https://1.proxy.nellaiiptv.com/srivinayagatv/music/index.m3u8
+
+[547] PN TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/pntv/pntv/index.m3u8
+
+[548] Sun Smart TV
+    Category: SCV Platform;VK Digital Platform
+    URL: https://live3.onecloudlive.in/sunsmart/sunsmarttvhd/index.m3u8
+
+[549] Sun Smart TV [NellaiIPTV]
+    Category: SCV Platform;VK Digital Platform
+    URL: https://real-vk.proxy.nellaiiptv.com/SUNSMARTTV/index.m3u8
+
+[550] SD Media (No Signal)
+    Category: PLC
+    URL: https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
+
+[551] Thoma TV
+    Category: Christian Devotional
+    URL: https://stream.onecloudlive.in/thoma/thoma/index.m3u8
+
+[552] Sakthi TV
+    Category: PLC
+    URL: https://real-vk.proxy.nellaiiptv.com/SAKTHITV/index.m3u8
+
+[553] Lucky TV Tenkasi
+    Category: PLC
+    URL: https://live.onecloudlive.in/luckytvtk/luckytv/index.m3u8
+
+[554] Selva Tamil TV
+    Category: PLC
+    URL: https://stream.sscloud7.in/live/selvatamiltv/index.mpd
+
+[555] Super TV Dindigul
+    Category: PLC
+    URL: http://122.165.249.163:8080/hls/supertv/index.m3u8
+
+[556] Super TV Dindigul [RojaTV]
+    Category: PLC
+    URL: https://stream.rojatv.cloud/super/tv/index.m3u8
+
+[557] Ark TV
+    Category: Christian Devotional
+    URL: https://ark.inet.moe/ark/index.m3u8
+
+[558] Ark TV [Ktisma]
+    Category: Christian Devotional
+    URL: https://ktismaservers.in:3917/live/arktvlive.m3u8
+
+[559] Kaalai TV
+    Category: PLC
+    URL: https://view.rcserver.in/tmp_hls23/kaalaitv/index.m3u8
+
+[560] SK TV Karur
+    Category: PLC
+    URL: https://view.rcserver.in/tmp_hls24/sktv/index.m3u8
+
+[561] SK Music
+    Category: Music
+    URL: https://view.rcserver.in/tmp_hls18/skmusic/index.m3u8
+
+[562] Ruhasha TV
+    Category: PLC
+    URL: https://live.applelive.in/ruhashatv/ruhashatv/index.m3u8
+
+[563] Ezhil TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/ezhiltv/ezhilhd/index.m3u8
+
+[564] Koodal TV
+    Category: PLC
+    URL: https://web.applelive.in/koodaltv/koodaltv/index.m3u8
+
+[565] Crayonz TV
+    Category: PLC
+    URL: http://sanplayout.xyz/live2/crayonztv/index.m3u8
+
+[566] Arputhar Yesu TV
+    Category: Christian Devotional
+    URL: https://arputharyesutv.arputharyesutv.com/live/md/index.m3u8
+
+[567] Arputhar Yesu TV [Livebox]
+    Category: Christian Devotional
+    URL: https://account33.livebox.co.in/jesushelpshls/live.m3u8
+
+[568] Fox TV
+    Category: Christian Devotional
+    URL: https://stream.onecloudlive.in/foxtv/foxtv/index.m3u8
+
+[569] Sri Arjun TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/sriarjuntv/sriarjun/index.m3u8
+
+[570] Om TV
+    Category: PLC
+    URL: http://omtv.7starcloud.com:1935/omtv/live/live.m3u8
+
+[571] Arasu TV
+    Category: PLC
+    URL: https://ipcloud.live/ctn/arasu/index.m3u8
+
+[572] Magalir TV
+    Category: PLC
+    URL: https://ipcloud.live/ctn/magalir/index.m3u8
+
+[573] Tamil TV
+    Category: Christian Devotional
+    URL: https://ktismaservers.in:3220/hybrid/play.m3u8
+
+[574] Family Channel
+    Category: Christian Devotional
+    URL: https://2-fss-2.streamhoster.com/pl_118/203324-1410936-1/chunklist.m3u8
+
+[575] Life TV
+    Category: Christian Devotional
+    URL: https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
+
+[576] News 80 Tamil
+    Category: News
+    URL: http://198.144.149.206:8080/NOTV/NEWS80/index.m3u8?token=GTR
+
+[577] C TV
+    Category: PLC
+    URL: http://ctv.phoenixcreations.online/ctv/ctv/playlist.m3u8
+
+[578] RK TV
+    Category: PLC
+    URL: http://rktv.phoenixcreations.online/rktv/rktv/index.m3u8
+
+[579] MM TV Valliyur
+    Category: PLC
+    URL: http://mmtv.phoenixcreations.online/mmtv/mm/index.mpd
+
+[580] Manasu TV
+    Category: PLC;Badaga
+    URL: https://stream6.livebox.co.in/manasutvhls/live.m3u8
+
+[581] Madura TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/mm/maduratv/index.m3u8
+
+[582] Star Media
+    Category: PLC
+    URL: https://rtmp.notvstream.in/starmedia/starmedia/index.m3u8
+
+[583] Jayam TV Polur
+    Category: PLC
+    URL: https://live.singamcloud.in/jayamtv/jayamki/index.m3u8
+
+[584] Mathan TV
+    Category: PLC
+    URL: https://ipcloud.live/mathantv/mathantv/index.m3u8
+
+[585] Hello Tamil TV
+    Category: PLC
+    URL: https://view.rcserver.in/tmp_hls26/hellotamiltv/index.m3u8
+
+[586] City TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/citytv/citytv/index.m3u8
+
+[587] Shalwin TV
+    Category: PLC
+    URL: https://live3.onecloudlive.in/shalwintv/shalwintv/index.m3u8
+
+[588] TTN TV
+    Category: PLC
+    URL: https://web.applelive.in/stream/ttntv/index.m3u8
+
+[589] Omm TV Nagercoil
+    Category: Hindu Devotional
+    URL: https://web.applelive.in/ommtv/ommtv/index.m3u8
+
+[590] Kanna TV
+    Category: PLC
+    URL: https://web.applelive.in/stream/kktv/index.m3u8
+
+[591] Malar TV Surandai
+    Category: PLC
+    URL: http://malartv.sscloud7.in/malartv/malartv/index.m3u8
+
+[592] Right TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/righttv/live/index.m3u8
+
+[593] Thendral TV Chennai
+    Category: PLC
+    URL: https://stream.ashokadigital.net/thendraltv/thendraltv/index.m3u8
+
+[594] Ratchagar TV
+    Category: Christian Devotional
+    URL: http://ratchagartv.phoenixcreations.online/ratchagartv/ratchagar/index.m3u8
+
+[595] A1 TV Ariyalur
+    Category: PLC
+    URL: https://app.ashokadigital.net/app/0fca457c/index.m3u8
+
+[596] VDS TV
+    Category: PLC
+    URL: http://117.247.192.123:8080/vds/vds.m3u8?psk=123456
+
+[597] UTV Coimbatore
+    Category: PLC;TCCL Platform
+    URL: http://cdn.utvtamil.in/utvkovai/utv/playlist.m3u8
+
+[598] S TV
+    Category: PLC
+    URL: https://apis.avmediawork.in/tvhls/stv.m3u8
+
+[599] ATN [RojaTV]
+    Category: PLC
+    URL: https://stream.rojatv.cloud/ATNHD/onecloud/index.m3u8
+
+[600] Lucky TV
+    Category: PLC
+    URL: http://luckytv.stream.onecloudlive.in/luckytv/luckytvhd/index.m3u8
+
+[601] Nakkubetta TV
+    Category: PLC;Badaga
+    URL: https://rojatv.cloud/nbtv/nbtv/index.m3u8
+
+[602] VTV Trichy
+    Category: PLC
+    URL: http://198.144.149.206:8080/NOTV/VTV1/index.m3u8?token=GTR
+
+[603] Bhairava TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/bhairavatv/bhairavahd/index.m3u8
+
+[604] Sabari TV Aruppukottai
+    Category: PLC
+    URL: https://stream.onecloudlive.in/sabaritv/sabaritvhd/index.m3u8
+
+[605] Joy TV HD
+    Category: Christian Devotional
+    URL: https://ktismaservers.in:3412/live/joytvlive.m3u8
+
+[606] Arighni TV
+    Category: PLC
+    URL: https://dmtv.iptv.pics/live/dmtv/index.m3u8
+
+[607] Sooriyan TV
+    Category: International
+    URL: https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
+
+[608] Sooriyan TV Cinema
+    Category: International;Movies
+    URL: https://live20.bozztv.com/giatv/giatv-Sooriyantv/Sooriyantv/playlist.m3u8
+
+[609] Uthamiyae TV
+    Category: Christian Devotional
+    URL: https://kali.vdopanel.com:3169/stream/play.m3u8
+
+[610] Samugam Media
+    Category: International
+    URL: https://ca.streamjo.com/live/samugam.m3u8
+
+[611] EET TV
+    Category: International
+    URL: https://eu.streamjo.com/eetlive/eettv.m3u8
+
+[612] Britain Tamil Bhakthi
+    Category: International;Hindu Devotional;TCCL Platform
+    URL: http://btc.inet.moe/live/btctv/index.m3u8
+
+[613] ME24 Tamil
+    Category: International
+    URL: https://stream.onecloudlive.in/orange/ME24TAMIL/index.m3u8
+
+[614] Meiveli TV
+    Category: International;Christian Devotional
+    URL: https://meiveli.livebox.co.in/MEIVELIMAINhls/meivelimain.m3u8
+
+[615] TWOC TV
+    Category: Christian Devotional
+    URL: https://rtmp.applelive.in/twoctv/twoctv/index.m3u8
+
+[616] Imai TV
+    Category: International
+    URL: https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8
+
+[617] Go Revival TV
+    Category: Christian Devotional
+    URL: https://ktismaservers.in:3870/live/gorevivaltvlive.m3u8
+
+[618] Salvation TV
+    Category: Christian Devotional
+    URL: https://ktismaservers.in:3902/live/salvationtvlive.m3u8
+
+[619] My Faith TV
+    Category: Christian Devotional
+    URL: https://stream.iplive.xyz/faithtv/faithtv/index.m3u8
+
+[620] Adhisayam TV
+    Category: Christian Devotional
+    URL: https://livetv.adhisayamtv.org/adhisayamtv/83a062a18a761b948a73ad2ba7747a8f.sdp/playlist.m3u8
+
+[621] Thuthi TV
+    Category: Christian Devotional
+    URL: http://indiamatrix.in/thuthitv/thuthitv.m3u8
+
+[622] Sirustigar TV
+    Category: Christian Devotional
+    URL: http://indiamatrix.in/sirustigartv/sirustigartv.m3u8
+
+[623] Peniel TV
+    Category: Christian Devotional
+    URL: http://indiamatrix.in/penieltv/penieltv.m3u8
+
+[624] Silver Sat Media
+    Category: PLC
+    URL: http://sanplayout.xyz/live2/silversatmedia/index.m3u8
+
+[625] Thangam TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/thangamtv/thangamtvhd/index.m3u8
+
+[626] Good News Time
+    Category: Christian Devotional
+    URL: https://5dd3981940faa.streamlock.net/goodnewstime/goodnewstime/playlist.m3u8
+
+[627] Jayam TV Trichy
+    Category: PLC
+    URL: https://live.onecloudlive.in/jmhd/jmtv/index.m3u8
+
+[628] V Tamil
+    Category: PLC
+    URL: https://hlsstream.olidigital.in/vtv/vtv/index.m3u8
+
+[629] Vezhamugam TV
+    Category: Hindu Devotional
+    URL: http://live.mintv.in/vezhamugam/live/playlist.m3u8
+
+[630] PG TV
+    Category: PLC
+    URL: https://app.xstream.onecloudlive.in/pgtv/pgtvhd/index.m3u8
+
+[631] Prime Music
+    Category: Music
+    URL: https://live.primestream.in/prime/music/index.m3u8
+
+[632] Deepam TV
+    Category: PLC
+    URL: http://deepam.7starcloud.com:1935/live/deepamtv/live.m3u8
+
+[633] Params TV
+    Category: PLC
+    URL: http://shreeparams.7starcloud.com:1935/live/paramstv/live.m3u8
+
+[634] Shakthi Channel
+    Category: PLC
+    URL: http://cloudstream4k.com:1935/shakthihd/bsk/playlist.m3u8
+
+[635] Sai TV Tenkasi
+    Category: PLC
+    URL: http://saitv.sscloud7.in/live/livesaitv/index.m3u8
+
+[636] Dolphin TV Sivakasi
+    Category: PLC
+    URL: https://view.rcserver.in/tmp_hls31/dolphintv/index.m3u8
+
+[637] Aruljothi TV
+    Category: Hindu Devotional;TCCL Platform
+    URL: https://jothi.inet.moe/jothitv/index.m3u8
+
+[638] Banyan TV
+    Category: PLC
+    URL: https://view.rcserver.in/tmp_hls32/banyantv/index.m3u8?token=YW1hemV5
+
+[639] D TV
+    Category: PLC
+    URL: https://view.rcserver.in/tmp_hls33/dtv/index.m3u8?token=YW1hemV5
+
+[640] DM TV
+    Category: PLC
+    URL: https://view.rcserver.in/tmp_hls34/dmtv/index.m3u8?token=YW1hemV5
+
+[641] BW TV
+    Category: PLC
+    URL: https://view.rcserver.in/tmp_hls35/bwtv/index.m3u8?token=YW1hemV5
+
+[642] Pothigai Prime
+    Category: PLC
+    URL: https://view.apserver.in/tmp_hls5/pothigaiprime/index.m3u8
+
+[643] Idhayam TV
+    Category: PLC
+    URL: http://sanplayout.xyz/live2/idhayamtv/index.m3u8
+
+[644] Idhayam Kids
+    Category: Kids
+    URL: http://sanplayout.xyz/live2/idhayamkidz/index.m3u8
+
+[645] Jeevaneerodai TV
+    Category: Christian Devotional
+    URL: https://web.applelive.in/jeevaneerodaitv/jeevaneerodaitv/index.m3u8
+
+[646] My Jesus TV
+    Category: Christian Devotional
+    URL: https://5790d294af2dc.streamlock.net/myjesustv/myjesustv/playlist.m3u8
+
+[647] Bible TV
+    Category: Christian Devotional
+    URL: https://account33.livebox.co.in/bibletvhls/live.m3u8
+
+[648] Heaven TV
+    Category: Christian Devotional
+    URL: https://heaventv.livebox.co.in/heaventvhls/live.m3u8
+
+[649] Channel 316
+    Category: Christian Devotional
+    URL: https://channel316.livebox.co.in/c316hls/live.m3u8
+
+[650] Grace TV
+    Category: Christian Devotional
+    URL: https://gracetvcgl.livebox.co.in/Gracetvhls/Gracetv.m3u8
+
+[651] Aathi TV
+    Category: International
+    URL: https://5790d294af2dc.streamlock.net/aathitv/aathitv/playlist.m3u8
+
+[652] TNSE
+    Category: International
+    URL: https://5790d294af2dc.streamlock.net/mchanneltv24/mchanneltv24/playlist.m3u8
+
+[653] Chola TV
+    Category: PLC
+    URL: https://hlsstream.olidigital.in/cholatv/cholatv/index.m3u8?token=dHVsbml0X3N0ZWFsc19zaGl0
+
+[654] Retro Music
+    Category: Music
+    URL: https://sanplayout.xyz/live2/retromusichd/playlist.m3u8
+
+[655] Madurai Arasi TV
+    Category: PLC
+    URL: https://app.xstream.onecloudlive.in/maduraiarasi/livestream/index.m3u8
+
+[656] NRJ TV
+    Category: International;Hindu Devotional
+    URL: http://198.144.149.206:8080/DINESH/NRJTV/index.m3u8?token=YAAL
+
+[657] PJ TV
+    Category: International
+    URL: http://198.144.149.206:8080/DINESH/PJTV/index.m3u8?token=YAAL
+
+[658] Eye Tamil
+    Category: International
+    URL: http://198.144.149.196:8080/EyeMedia/EyeTV/index.m3u8
+
+[659] Eye Tamil Music
+    Category: International;Music
+    URL: http://198.144.149.196:8080/EyeMedia/music/index.m3u8
+
+[660] Eye Tamil Comedy
+    Category: International;Comedy
+    URL: http://198.144.149.196:8080/EyeMedia/comedy/index.m3u8
+
+[661] Prince TV
+    Category: PLC
+    URL: http://princetv.phoenixcreations.online/princetv/prince/playlist.m3u8
+
+[662] Sri TV
+    Category: PLC
+    URL: http://sritv.phoenixcreations.online/sritv/sri/playlist.m3u8
+
+[663] Kings TV
+    Category: PLC
+    URL: http://kingstv.phoenixcreations.online/kingstv/kings/playlist.m3u8
+
+[664] Kanna TV
+    Category: PLC
+    URL: https://web.applelive.in/stream/kktv/index.m3u8
+
+[665] Malar TV Alangulam
+    Category: PLC
+    URL: http://malartv.sscloud7.in/malartv/malartv/index.m3u8
+
+[666] Right TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/righttv/live/index.m3u8
+
+[667] Thendral TV Chennai
+    Category: PLC
+    URL: https://stream.ashokadigital.net/thendraltv/thendraltv/index.m3u8
+
+[668] Rathchagar TV
+    Category: Devotional;Christian
+    URL: http://ratchagartv.phoenixcreations.online/ratchagartv/ratchagar/index.m3u8
+
+[669] A1 TV Ariyalur
+    Category: PLC
+    URL: https://app.ashokadigital.net/app/0fca457c/index.m3u8
+
+[670] VDS TV
+    Category: PLC
+    URL: http://117.247.192.123:8080/vds/vds.m3u8?psk=123456
+
+[671] UTV Coimbatore
+    Category: PLC
+    URL: http://cdn.utvtamil.in/utvkovai/utv/playlist.m3u8
+
+[672] S TV
+    Category: PLC
+    URL: https://apis.avmediawork.in/tvhls/stv.m3u8
+
+[673] ATN TV
+    Category: PLC
+    URL: https://stream.rojatv.cloud/ATNHD/onecloud/index.m3u8
+
+[674] Nakkubetta TV
+    Category: PLC;Badaga
+    URL: https://rojatv.cloud/nbtv/nbtv/index.m3u8
+
+[675] VTV Trichy
+    Category: PLC
+    URL: http://198.144.149.206:8080/NOTV/VTV1/index.m3u8?token=GTR
+
+[676] Bhairava TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/bhairavatv/bhairavahd/index.m3u8
+
+[677] Sabari TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/sabaritv/sabaritvhd/index.m3u8
+
+[678] Irattaipaathai
+    Category: Unknown
+    URL: https://account31.livebox.co.in/IRATTAIPAATHAITVhls/live.m3u8
+
+[679] khila tv
+    Category: Unknown
+    URL: http://khilatv.phoenixcreations.online/khilatv/khilatv/playlist.m3u8
+
+[680] Tamilnesan TV
+    Category: Unknown
+    URL: https://view.rcserver.in/tmp_hls14/tntv/index.m3u8
+
+[681] Thirai TV
+    Category: Unknown
+    URL: https://view.apserver.in/tmp_hls2/thiraitv/index.m3u8
+
+[682] Thirai Isai
+    Category: Unknown
+    URL: https://view.apserver.in/tmp_hls1/thiraitvplus/index.m3u8
+
+[683] King TV Ranipet
+    Category: Ranipet
+    URL: https://ipcloud.live/kingtv/kingtv/index.m3u8
+
+[684] Suriyan TV
+    Category: Karur
+    URL: https://view.rcserver.in/tmp_hls9/suriyantv/index.m3u8
+
+[685] MDN TV
+    Category: Unknown
+    URL: https://account18.livebox.co.in/IMAGESEQUENCEhls/live.m3u8
+
+[686] Southern Tv
+    Category: Unknown
+    URL: https://player.mslivestream.net/mslive/9fe7c84b8253e88099d47237e0b7367c.sdp/playlist.m3u8
+
+[687] Thalaa Tv
+    Category: Unknown
+    URL: https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8
+
+[688] Singam tv
+    Category: Unknown
+    URL: http://brightmeltech.in/singamtv/singamtv.m3u8
+
+[689] Eesan TV
+    Category: Karur
+    URL: https://live.singamcloud.in/eesantv/eesantv/index.m3u8
+
+[690] Vajram TV
+    Category: Unknown
+    URL: https://app.ashokadigital.net/app/68b001a0/index.m3u8
+
+[691] Raga TV
+    Category: Unknown
+    URL: https://live.onecloudlive.in/ragatv/ragatvhd/index.m3u8
+
+[692] Oli TV
+    Category: Unknown
+    URL: https://live.olidigital.in/olitv/olitv/index.m3u8
+
+[693] Time TV
+    Category: Unknown
+    URL: https://live.olidigital.in/timetv/timetv/index.m3u8
+
+[694] Moon TV
+    Category: Tirunelveli
+    URL: https://live.maxtn.in/moontv/moontv/index.m3u8
+
+[695] NTN TV
+    Category: Nagapattinam
+    URL: https://live.skystream.in/live/ntntv/index.m3u8?hls_ctx=1314owa2
+
+[696] Kumari TV
+    Category: Unknown
+    URL: https://rtmp.applelive.in/gvkumaritv/gvkumaritv/index.m3u8
+
+[697] Sakthi TV
+    Category: Unknown
+    URL: https://live.sscloud7.in/live/sakthitv/index.m3u8
+
+[698] Dtv
+    Category: Coimbatore
+    URL: https://stream.d6-pro.com/Dtv/live/index.m3u8
+
+[699] TDN
+    Category: Unknown
+    URL: https://live.maxtn.in/tdn/tdn/index.m3u8
+
+[700] 7 Green 4K
+    Category: Koovathur; Kanchipuram Dist.
+    URL: https://account33.livebox.co.in/7GREEN4Khls/live.m3u8
+
+[701] Tharun Movies
+    Category: Koovathur; Kanchipuram Dist.
+    URL: https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
+
+[702] MN TV
+    Category: Dharmapuri
+    URL: https://mntv.livebox.co.in/mntvhls/live.m3u8
+
+[703] Sana TV
+    Category: State-wide
+    URL: https://galaxyott.live/hls/sanatv.m3u8
+
+[704] Sana Plus
+    Category: State-wide
+    URL: https://galaxyott.live/hls/sanaplus.m3u8
+
+[705] GEM TV
+    Category: Unknown
+    URL: https://gemtv.circle7stream.com/gem/fcce47a8559e30755582c396ce7fce9e.sdp/playlist.m3u8
+
+[706] NTC TV
+    Category: Pattukkottai
+    URL: https://galaxyott.live/hls/ntv.m3u8
+
+[707] Ultimate TV
+    Category: Trichy
+    URL: https://stream.galaxyott.live/live/utv/index.m3u8
+
+[708] Surya TV
+    Category: Tiruvannamalai
+    URL: https://galaxyott.live/hls/suryatv.m3u8
+
+[709] YET TV
+    Category: State-wide
+    URL: https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
+
+[710] Manasu TV
+    Category: Unknown
+    URL: https://stream6.livebox.co.in/manasutvhls/live.m3u8
+
+[711] Harin TV
+    Category: Unknown
+    URL: https://ipcloud.live/harintv/harintvhd/index.m3u8
+
+[712] Phoenix TV
+    Category: Tirupattur
+    URL: https://stream.onecloudlive.in/phoenixtv/phoenixtv/index.m3u8
+
+[713] Roja TV
+    Category: Coimbatore
+    URL: https://live.rojatv.cloud/rojatv/rojatv/index.m3u8
+
+[714] Roja Movies
+    Category: Coimbatore
+    URL: https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
+
+[715] Nila TV
+    Category: Unknown
+    URL: https://live.olidigital.in/nilatv/nilatv/index.m3u8
+
+[716] Sky Plus TV
+    Category: Tiruchengode
+    URL: https://ipcloud.live/skytv/skytv/index.m3u8
+
+[717] SMCV TV
+    Category: Unknown
+    URL: https://singamcloud.in/smcvtv/smcvtv/index.m3u8
+
+[718] Subin TV (GalaxyOTT/Jio)
+    Category: Alangulam; Tenkasi Dist.
+    URL: https://stream.galaxyott.live/live/subintv/index.m3u8
+
+[719] Aaryaa TV (Cloud7)
+    Category: Erode
+    URL: https://live.sscloud7.in/live/aaryaatv/index.m3u8
+
+[720] Isai TV
+    Category: Ramanathapuram
+    URL: https://server.sscloud7.in/isaihd/isaihd/index.m3u8
+
+[721] Rock TV
+    Category: Unknown
+    URL: https://apis.avmediawork.in/tvhls/rocktv.m3u8
+
+[722] Tamil Oli TV
+    Category: Unknown
+    URL: https://view.rcserver.in/tmp_hls7/tamilolitv/index.m3u8
+
+[723] Dharshan TV
+    Category: Kanchipuram
+    URL: https://galaxyott.live/hls/dharshantv.m3u8
+
+[724] Suriyan TV (Cloud7)
+    Category: Surandai; Tenkasi Dist.
+    URL: https://sscloud7.com/live/suriyantv/index.m3u8
+
+[725] Akilam TV
+    Category: Thisayanvilail; Tirunelveli Dist.
+    URL: https://stream.onecloudlive.in/akilamtv/akilamtvhd/index.m3u8
+
+[726] RJ Tamil [Not 24/7]
+    Category: Unknown
+    URL: https://ipcloud.live/rjtamiltv/rjtamil/index.m3u8
+
+[727] Maruthi TV
+    Category: Vazhapadi; Salem Dist.
+    URL: https://stream.onecloudlive.in/maruthitv/maruthitvhd/index.m3u8
+
+[728] M Television [Not 24/7]
+    Category: Kodaikanal
+    URL: https://ipcloud.live/mtv/menhd/index.m3u8
+
+[729] MSN TV
+    Category: Cuddalore
+    URL: https://ipcloud.live/msntv/msntv/index.m3u8
+
+[730] Veerali TV
+    Category: Udangudi; Thoothukudi
+    URL: https://ipcloud.live/veerali/veeralitv/index.m3u8
+
+[731] Shalini TV Tiruvannamalai
+    Category: Tiruvannamalai
+    URL: https://ipcloud.live/shalinitv/shalinitv/index.m3u8
+
+[732] Channel Spice [Not 24/7]
+    Category: Theni
+    URL: https://stream.onecloudlive.in/spicetv/spicetv/index.m3u8
+
+[733] Sai TV
+    Category: Madurai
+    URL: https://stream.onecloudlive.in/saitvmdu/saitvmdu/index.m3u8
+
+[734] Anbu TV
+    Category: Sivakasi
+    URL: https://ipcloud.live/anbutv/anbutvhd/index.m3u8
+
+[735] Nellai TV
+    Category: Tirunelveli
+    URL: https://stream.onecloudlive.in/nellaitv/nellaitv/index.m3u8
+
+[736] SJ Surya TV
+    Category: Tirunelveli
+    URL: https://ipcloud.live/nellaitv/suriyatv/index.m3u8
+
+[737] Params TV
+    Category: Salem
+    URL: https://app.ashokadigital.net/app/a3e0b02f/index.m3u8
+
+[738] Karthick TV
+    Category: Tirunelveli
+    URL: https://ipcloud.live/karthick/karthicktvhd/index.m3u8
+
+[739] Eagle TV
+    Category: Unknown
+    URL: https://ipcloud.live/eaglemedia/eagletv/index.m3u8
+
+[740] Dheiveegam TV
+    Category: Unknown
+    URL: https://stream.singamcloud.in/Dheiveegamtv/Dheiveegamtv/index.m3u8
+
+[741] Amman TV
+    Category: Unknown
+    URL: https://app.ashokadigital.net/app/78b1bc36/index.m3u8
+
+[742] Oscar TV
+    Category: Unknown
+    URL: https://account21.livebox.co.in/oscartvhls/live.m3u8
+
+[743] Jeiyan TV
+    Category: Unknown
+    URL: https://stream.onecloudlive.in/jeyantv/jeyantv/index.m3u8
+
+[744] Vidiyal TV
+    Category: Unknown
+    URL: https://account11.livebox.co.in/vidyaltvhls/live.m3u8?psk=stream
+
+[745] Pothigai Thendral
+    Category: Unknown
+    URL: https://ipcloud.live/pothigai/thendral/index.m3u8
+
+[746] JRP TV
+    Category: Unknown
+    URL: https://ipcloud.live/jrptv/jrphd/index.m3u8
+
+[747] Kavin TV
+    Category: Unknown
+    URL: http://198.144.149.206:8080/NOTV/KAVINTV/index.m3u8?token=GTR
+
+[748] Tamil Star TV
+    Category: Salem
+    URL: http://acv.7starcloud.com:1935/tamilstar/tv/playlist.m3u8
+
+[749] Jayaam TV
+    Category: Unknown
+    URL: https://app.ashokadigital.net/app/67a779e9/index.m3u8
+
+[750] KCN TV
+    Category: Unknown
+    URL: https://view.rcserver.in/tmp_hls12/kcntv/index.m3u8
+
+[751] Tamil Magan TV
+    Category: Unknown
+    URL: http://120.138.14.16:8080/hls/tamilmagantv/index.m3u8
+
+[752] Namathu Sangamam TV
+    Category: Unknown
+    URL: http://yours.7starcloud.com:1935/live/nmtv/playlist.m3u8
+
+[753] Yours TV
+    Category: Unknown
+    URL: http://yours.7starcloud.com:1935/live/yourstv/playlist.m3u8
+
+[754] Thirumalai TV Vadipatti
+    Category: Vadipatti; Madurai Dist.
+    URL: https://ipcloud.live/thirumalaitv/madurai/index.m3u8
+
+[755] SS TV Nagercoil
+    Category: Nagercoil; Kanyakumari Dist.
+    URL: https://server.sscloud7.in/live/sshd/playlist.m3u8
+
+[756] Jith TV
+    Category: Vasudevanallur; Tenkasi Dist.
+    URL: https://sscloud7.com/live/jithtv/index.m3u8
+
+[757] Bhakthi TV
+    Category: Vasudevanallur; Tenkasi Dist.
+    URL: https://live.sscloud7.in/live/bhakthitv/index.m3u8
+
+[758] Sky TV
+    Category: Unknown
+    URL: https://sscloud7.com/live/skytv/index.m3u8
+
+[759] Boys TV
+    Category: Unknown
+    URL: https://rtmp.applelive.in/boystv/boystv/index.m3u8
+
+[760] Maniway TV
+    Category: Unknown
+    URL: https://live.singamcloud.in/bsctv/bsctv/index.m3u8
+
+[761] King TV Alangulam
+    Category: Alangulam; Tenkasi Dist.
+    URL: https://server.sscloud7.in/kingtv/kingtv/index.m3u8
+
+[762] Udhayam TV
+    Category: Unknown
+    URL: https://view.rcserver.in/tmp_hls8/udhayamtv/index.m3u8
+
+[763] Jayam TV Karur
+    Category: Karur
+    URL: https://view.rcserver.in/tmp_hls10/jayamtvkarur/index.m3u8
+
+[764] Tamilnesan TV
+    Category: Unknown
+    URL: https://view.rcserver.in/tmp_hls14/tntv/index.m3u8
+
+[765] Amma Vision
+    Category: Unknown
+    URL: https://view.rcserver.in/tmp_hls19/ammavision/index.m3u8
+
+[766] Jayam TV
+    Category: Unknown
+    URL: https://view.rcserver.in/tmp_hls20/index.m3u8
+
+[767] Thirai TV
+    Category: Unknown
+    URL: https://view.apserver.in/tmp_hls2/thiraitv/index.m3u8
+
+[768] Thirai Isai
+    Category: Unknown
+    URL: https://view.apserver.in/tmp_hls1/thiraitvplus/index.m3u8
+
+[769] Dharumai Adeenam TV
+    Category: Unknown
+    URL: https://stream.onecloudlive.in/taitaltv/livetv/index.m3u8
+
+[770] Ayya Vaikuntar TV
+    Category: Unknown
+    URL: https://server.sscloud7.in/live/ayyatv/index.m3u8
+
+[771] Thendral TV Theni
+    Category: Theni
+    URL: https://sscloud7.com/live/thendraltv/index.m3u8
+
+[772] Cuddalore Voice TV
+    Category: Cuddalore
+    URL: http://voicetv.stream.ashokadigital.net:8080/voicetv/voicetvhd/index.m3u8
+
+[773] Irattaipaathai TV
+    Category: Unknown
+    URL: https://account31.livebox.co.in/IRATTAIPAATHAITVhls/live.m3u8
+
+[774] Velan TV
+    Category: Unknown
+    URL: http://velantv.phoenixcreations.online/velantv/velantv/index.m3u8
+
+[775] King TV Ranipet
+    Category: Ranipet
+    URL: https://ipcloud.live/kingtv/kingtv/index.m3u8
+
+[776] Suriyan TV
+    Category: Unknown
+    URL: https://view.rcserver.in/tmp_hls9/suriyantv/index.m3u8
+
+[777] MDN TV
+    Category: Unknown
+    URL: https://account18.livebox.co.in/IMAGESEQUENCEhls/live.m3u8
+
+[778] Aarthi TV
+    Category: Unknown
+    URL: http://198.144.149.206:8080/NOTV/AARTHITV/index.m3u8?token=GTR
+
+[779] Kanchi TV
+    Category: Unknown
+    URL: http://198.144.149.206:8080/NOTV/KANCHITV/index.m3u8?token=GTR
+
+[780] Eesan TV
+    Category: Karur
+    URL: https://live.singamcloud.in/eesantv/eesantv/index.m3u8
+
+[781] Vajram TV
+    Category: Unknown
+    URL: https://app.ashokadigital.net/app/68b001a0/index.m3u8
+
+[782] Raga TV
+    Category: Unknown
+    URL: https://live.onecloudlive.in/ragatv/ragatvhd/index.m3u8
+
+[783] Oli TV
+    Category: Unknown
+    URL: https://live.olidigital.in/olitv/olitv/index.m3u8
+
+[784] Time TV
+    Category: Unknown
+    URL: https://live.olidigital.in/timetv/timetv/index.m3u8
+
+[785] Moon TV
+    Category: Tirunelveli
+    URL: https://live.maxtn.in/moontv/moontv/index.m3u8
+
+[786] NTN TV
+    Category: Nagapattinam
+    URL: https://live.skystream.in/live/ntntv/index.m3u8?hls_ctx=1314owa2
+
+[787] Kumari TV
+    Category: Unknown
+    URL: https://rtmp.applelive.in/gvkumaritv/gvkumaritv/index.m3u8
+
+[788] Sakthi TV
+    Category: Unknown
+    URL: https://live.sscloud7.in/live/sakthitv/index.m3u8
+
+[789] Dtv
+    Category: Coimbatore
+    URL: https://stream.d6-pro.com/Dtv/live/index.m3u8
+
+[790] TDN
+    Category: Unknown
+    URL: https://live.maxtn.in/tdn/tdn/index.m3u8
+
+[791] 7 Green 4K
+    Category: Koovathur; Kanchipuram Dist.
+    URL: https://account33.livebox.co.in/7GREEN4Khls/live.m3u8
+
+[792] Tharun Movies
+    Category: Koovathur; Kanchipuram Dist.
+    URL: https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
+
+[793] MN TV
+    Category: Dharmapuri
+    URL: https://mntv.livebox.co.in/mntvhls/live.m3u8
+
+[794] Sana TV
+    Category: State-wide
+    URL: https://galaxyott.live/hls/sanatv.m3u8
+
+[795] Sana Plus
+    Category: State-wide
+    URL: https://galaxyott.live/hls/sanaplus.m3u8
+
+[796] GEM TV
+    Category: Unknown
+    URL: https://gemtv.circle7stream.com/gem/fcce47a8559e30755582c396ce7fce9e.sdp/playlist.m3u8
+
+[797] NTC TV
+    Category: Pattukkottai
+    URL: https://galaxyott.live/hls/ntv.m3u8
+
+[798] Ultimate TV
+    Category: Trichy
+    URL: https://stream.galaxyott.live/live/utv/index.m3u8
+
+[799] Surya TV
+    Category: Tiruvannamalai
+    URL: https://galaxyott.live/hls/suryatv.m3u8
+
+[800] YET TV
+    Category: State-wide
+    URL: https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
+
+[801] Manasu TV
+    Category: Unknown
+    URL: https://stream6.livebox.co.in/manasutvhls/live.m3u8
+
+[802] Harin TV
+    Category: Unknown
+    URL: https://ipcloud.live/harintv/harintvhd/index.m3u8
+
+[803] Phoenix TV
+    Category: Tirupattur
+    URL: https://stream.onecloudlive.in/phoenixtv/phoenixtv/index.m3u8
+
+[804] Roja TV
+    Category: Coimbatore
+    URL: https://live.rojatv.cloud/rojatv/rojatv/index.m3u8
+
+[805] Roja Movies
+    Category: Coimbatore
+    URL: https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
+
+[806] Nila TV
+    Category: Unknown
+    URL: https://live.olidigital.in/nilatv/nilatv/index.m3u8
+
+[807] Sky Plus TV
+    Category: Tiruchengode
+    URL: https://ipcloud.live/skytv/skytv/index.m3u8
+
+[808] SMCV TV
+    Category: Unknown
+    URL: https://singamcloud.in/smcvtv/smcvtv/index.m3u8
+
+[809] Subin TV (GalaxyOTT/Jio)
+    Category: Alangulam; Tenkasi Dist.
+    URL: https://stream.galaxyott.live/live/subintv/index.m3u8
+
+[810] Aaryaa TV (Cloud7)
+    Category: Erode
+    URL: https://live.sscloud7.in/live/aaryaatv/index.m3u8
+
+[811] Isai TV
+    Category: Ramanathapuram
+    URL: https://server.sscloud7.in/isaihd/isaihd/index.m3u8
+
+[812] Rock TV
+    Category: Unknown
+    URL: https://apis.avmediawork.in/tvhls/rocktv.m3u8
+
+[813] Tamil Oli TV
+    Category: Unknown
+    URL: https://view.rcserver.in/tmp_hls7/tamilolitv/index.m3u8
+
+[814] Dharshan TV
+    Category: Kanchipuram
+    URL: https://galaxyott.live/hls/dharshantv.m3u8
+
+[815] Suriyan TV (Cloud7)
+    Category: Surandai; Tenkasi Dist.
+    URL: https://sscloud7.com/live/suriyantv/index.m3u8
+
+[816] Akilam TV
+    Category: Thisayanvilail; Tirunelveli Dist.
+    URL: https://stream.onecloudlive.in/akilamtv/akilamtvhd/index.m3u8
+
+[817] RJ Tamil [Not 24/7]
+    Category: Unknown
+    URL: https://ipcloud.live/rjtamiltv/rjtamil/index.m3u8
+
+[818] Maruthi TV
+    Category: Vazhapadi; Salem Dist.
+    URL: https://stream.onecloudlive.in/maruthitv/maruthitvhd/index.m3u8
+
+[819] M Television [Not 24/7]
+    Category: Kodaikanal
+    URL: https://ipcloud.live/mtv/menhd/index.m3u8
+
+[820] MSN TV
+    Category: Cuddalore
+    URL: https://ipcloud.live/msntv/msntv/index.m3u8
+
+[821] Veerali TV
+    Category: Udangudi; Thoothukudi
+    URL: https://ipcloud.live/veerali/veeralitv/index.m3u8
+
+[822] Shalini TV Tiruvannamalai
+    Category: Tiruvannamalai
+    URL: https://ipcloud.live/shalinitv/shalinitv/index.m3u8
+
+[823] Channel Spice [Not 24/7]
+    Category: Theni
+    URL: https://stream.onecloudlive.in/spicetv/spicetv/index.m3u8
+
+[824] Sai TV
+    Category: Madurai
+    URL: https://stream.onecloudlive.in/saitvmdu/saitvmdu/index.m3u8
+
+[825] Anbu TV
+    Category: Sivakasi
+    URL: https://ipcloud.live/anbutv/anbutvhd/index.m3u8
+
+[826] Nellai TV
+    Category: Tirunelveli
+    URL: https://stream.onecloudlive.in/nellaitv/nellaitv/index.m3u8
+
+[827] SJ Surya TV
+    Category: Tirunelveli
+    URL: https://ipcloud.live/nellaitv/suriyatv/index.m3u8
+
+[828] Params TV
+    Category: Salem
+    URL: https://app.ashokadigital.net/app/a3e0b02f/index.m3u8
+
+[829] Karthick TV
+    Category: Tirunelveli
+    URL: https://ipcloud.live/karthick/karthicktvhd/index.m3u8
+
+[830] Eagle TV
+    Category: Unknown
+    URL: https://ipcloud.live/eaglemedia/eagletv/index.m3u8
+
+[831] Dheiveegam TV
+    Category: Unknown
+    URL: https://stream.singamcloud.in/Dheiveegamtv/Dheiveegamtv/index.m3u8
+
+[832] Amman TV
+    Category: Unknown
+    URL: https://app.ashokadigital.net/app/78b1bc36/index.m3u8
+
+[833] Oscar TV
+    Category: Unknown
+    URL: https://account21.livebox.co.in/oscartvhls/live.m3u8
+
+[834] Jeiyan TV
+    Category: Unknown
+    URL: https://stream.onecloudlive.in/jeyantv/jeyantv/index.m3u8
+
+[835] Vidiyal TV
+    Category: Unknown
+    URL: https://account11.livebox.co.in/vidyaltvhls/live.m3u8?psk=stream
+
+[836] Pothigai Thendral
+    Category: Unknown
+    URL: https://ipcloud.live/pothigai/thendral/index.m3u8
+
+[837] JRP TV
+    Category: Unknown
+    URL: https://ipcloud.live/jrptv/jrphd/index.m3u8
+
+[838] Jayaam TV
+    Category: Unknown
+    URL: https://app.ashokadigital.net/app/67a779e9/index.m3u8
+
+[839] KCN TV
+    Category: Unknown
+    URL: https://view.rcserver.in/tmp_hls12/kcntv/index.m3u8
+
+[840] Thirumalai TV Vadipatti
+    Category: Vadipatti; Madurai Dist.
+    URL: https://ipcloud.live/thirumalaitv/madurai/index.m3u8
+
+[841] SS TV Nagercoil
+    Category: Nagercoil; Kanyakumari Dist.
+    URL: https://server.sscloud7.in/live/sshd/playlist.m3u8
+
+[842] Jith TV
+    Category: Vasudevanallur; Tenkasi Dist.
+    URL: https://sscloud7.com/live/jithtv/index.m3u8
+
+[843] Bhakthi TV
+    Category: Vasudevanallur; Tenkasi Dist.
+    URL: https://live.sscloud7.in/live/bhakthitv/index.m3u8
+
+[844] Sky TV
+    Category: Unknown
+    URL: https://sscloud7.com/live/skytv/index.m3u8
+
+[845] Boys TV
+    Category: Unknown
+    URL: https://rtmp.applelive.in/boystv/boystv/index.m3u8
+
+[846] Maniway TV
+    Category: Unknown
+    URL: https://live.singamcloud.in/bsctv/bsctv/index.m3u8
+
+[847] King TV Alangulam
+    Category: Alangulam; Tenkasi Dist.
+    URL: https://server.sscloud7.in/kingtv/kingtv/index.m3u8
+
+[848] Udhayam TV
+    Category: Unknown
+    URL: https://view.rcserver.in/tmp_hls8/udhayamtv/index.m3u8
+
+[849] Jayam TV Karur
+    Category: Karur
+    URL: https://view.rcserver.in/tmp_hls10/jayamtvkarur/index.m3u8
+
+[850] Tamilnesan TV
+    Category: Unknown
+    URL: https://view.rcserver.in/tmp_hls14/tntv/index.m3u8
+
+[851] Amma Vision
+    Category: Unknown
+    URL: https://view.rcserver.in/tmp_hls19/ammavision/index.m3u8
+
+[852] Jayam TV
+    Category: Unknown
+    URL: https://view.rcserver.in/tmp_hls20/index.m3u8
+
+[853] Thirai TV
+    Category: Unknown
+    URL: https://view.apserver.in/tmp_hls2/thiraitv/index.m3u8
+
+[854] Thirai Isai
+    Category: Unknown
+    URL: https://view.apserver.in/tmp_hls1/thiraitvplus/index.m3u8
+
+[855] Dharumai Adeenam TV
+    Category: Unknown
+    URL: https://stream.onecloudlive.in/taitaltv/livetv/index.m3u8
+
+[856] Ayya Vaikuntar TV
+    Category: Unknown
+    URL: https://server.sscloud7.in/live/ayyatv/index.m3u8
+
+[857] Thendral TV Theni
+    Category: Theni
+    URL: https://sscloud7.com/live/thendraltv/index.m3u8
+
+[858] Appu TV
+    Category: Unknown
+    URL: http://198.144.149.206:8080/NOTV/IWORLDHD/index.m3u8?token=GTR
+
+[859] Smart Sri TV
+    Category: Unknown
+    URL: http://hdserver.7starcloud.com:1935/smart/tv/playlist.m3u8
+
+[860] RS TV
+    Category: Unknown
+    URL: https://stream.onecloudlive.in/rstv/rstvhd/index.m3u8
+
+[861] Raagam Friends TV
+    Category: Unknown
+    URL: https://stream.onecloudlive.in/raagamtv/raagamtvhd/index.m3u8
+
+[862] Superstar TV
+    Category: Unknown
+    URL: https://stream.onecloudlive.in/superstartv/superstarhd/index.m3u8
+
+[863] ME24 Tamil
+    Category: Unknown
+    URL: https://stream.onecloudlive.in/orange/ME24TAMIL/index.m3u8
+
+[864] KRN TV
+    Category: Unknown
+    URL: https://stream.onecloudlive.in/krntv/krntvhd/index.m3u8
+
+[865] Aramm TV
+    Category: Unknown
+    URL: https://singamcloud.in/arammtv/arammtv/index.m3u8
+
+[866] Fort Channels
+    Category: Unknown
+    URL: https://stream.onecloudlive.in/forttv/fortchannel/index.m3u8
+
+[867] Solai TV
+    Category: Unknown
+    URL: https://ipcloud.live/solaitv/solaihd/index.m3u8
+
+[868] Jeyam Plus
+    Category: Unknown
+    URL: https://ipcloud.live/mmtv/jeyamplus/index.m3u8
+
+[869] Mallai TV
+    Category: Unknown
+    URL: https://rojatv.cloud/mallaitv/mallaitv/index.m3u8
+
+[870] MM TV
+    Category: Unknown
+    URL: https://ipcloud.live/mmtv/mmtvhd/index.m3u8
+
+[871] Salaam TV
+    Category: Islamic;Unknown
+    URL: https://stream.onecloudlive.in/salamtv/salamtvhd/index.m3u8
+
+[872] Matha TV
+    Category: Christian;Unknown
+    URL: https://live.mathatv.in/mathatv/mathatv/index.m3u8
+
+[873] Sharon TV
+    Category: Christian;Unknown
+    URL: https://sscloud7.com/live/sharontv/index.m3u8
+
+[874] Vinmeen Music
+    Category: Christian;Unknown
+    URL: https://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
+
+[875] JC TV
+    Category: Christian;Unknown
+    URL: https://ipcloud.live/novamani/jctv/index.m3u8
+
+[876] King Of Glory TV
+    Category: Christian;Unknown
+    URL: https://ipcloud.live/novamani/kingofglorytv/index.m3u8
+
+[877] Love Joy TV
+    Category: Christian;Unknown
+    URL: https://ipcloud.live/novamani/lovejoytv/index.m3u8
+
+[878] Divine Music
+    Category: Christian;Unknown
+    URL: https://ipcloud.live/novamani/divinetv/index.m3u8
+
+[879] JTK TV
+    Category: Christian;Unknown
+    URL: http://jtktv.indiamatrix.in/jtktvkay/jtktvkay.m3u8
+
+[880] Shekinah TV
+    Category: Christian;Unknown
+    URL: https://iptvhls.inet.moe/hls/newchannel.m3u8
+
+[881] Cross TV
+    Category: Christian;Unknown
+    URL: https://ytv.iptv.pics/hls/cross.m3u8
+
+[882] Jeyam Television
+    Category: Christian;Unknown
+    URL: https://jeyamtv.livebox.co.in/JeyamTelevisionhls/JeyamTelevision.m3u8
+
+[883] PCN Channel
+    Category: PLC
+    URL: https://pcntv.wmsdigital.in/hls/gtv/stream.m3u8
+
+[884] Thendral TV Alangulam
+    Category: PLC
+    URL: http://almthendraltv.phoenixcreations.online/almthendraltv/almthendraltv/playlist.m3u8
+
+[885] Jay TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/jaytv/jaytvhd/index.m3u8
+
+[886] Annai TV
+    Category: PLC;Platform
+    URL: https://annainew.livebox.co.in/annailivehls/live.m3u8
+
+[887] 7Star Television
+    Category: PLC;Platform
+    URL: https://annainew.livebox.co.in/7startvhls/livestream.m3u8
+
+[888] Amma TV
+    Category: PLC;Platform
+    URL: https://annainew.livebox.co.in/ammatvhls/live.m3u8
+
+[889] Sri Sai TV
+    Category: PLC;Platform
+    URL: https://annainew.livebox.co.in/srisaihls/live.m3u8
+
+[890] Arul TV
+    Category: PLC
+    URL: http://arulstream.in:1935/ArulTv/live/playlist.m3u8
+
+[891] Kanchi Media
+    Category: PLC
+    URL: http://198.144.149.206:8080/NOTV/KANCHIMEDIA/index.m3u8?token=GTR
+
+[892] Analai Express
+    Category: PLC
+    URL: http://198.144.149.206:8080/ANALAI_MOVIE/index.m3u8?token=GTR
+
+[893] Naga TV
+    Category: PLC
+    URL: http://nagatv.phoenixcreations.online/nagatv/nagatv/index.m3u8
+
+[894] Kaka TV
+    Category: PLC
+    URL: http://kakatv.phoenixcreations.online/kakatv/kaka/index.m3u8
+
+[895] Joshua TV
+    Category: Devotional;Christian
+    URL: http://joshuatv.phoenixcreations.online/joshuatv/joshuatv/index.m3u8
+
+[896] Paasamalar TV
+    Category: PLC
+    URL: https://stream.sscloud7.in/live/paasamalartv/index.m3u8
+
+[897] Karthick TV
+    Category: PLC
+    URL: https://ipcloud.live/karthick/karthicktvhd/index.m3u8
+
+[898] Selva Tamil TV
+    Category: PLC
+    URL: https://stream.sscloud7.in/live/selvatamiltv/index.mpd
+
+[899] Ark TV
+    Category: Devotional;Christian
+    URL: https://ark.inet.moe/ark/index.m3u8
+
+[900] Auro TV
+    Category: PLC
+    URL: http://ptuf.ridsys.in/riptv/live/AURO_HD/index.m3u8
+
+[901] Ridsys TV
+    Category: PLC
+    URL: http://ptuf.ridsys.in/riptv/live/RIDSYS_HD/index.m3u8
+
+[902] AJK Tv
+    Category: PLC
+    URL: http://ptuf.ridsys.in/riptv/live/AJK_TV/index.m3u8
+
+[903] AJK Movie
+    Category: Movies
+    URL: http://ptuf.ridsys.in/riptv/live/AJK_MOVIE_HD/index.m3u8
+
+[904] Ruhasha TV
+    Category: PLC
+    URL: https://live.applelive.in/ruhashatv/ruhashatv/index.m3u8
+
+[905] Ezhil TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/ezhiltv/ezhilhd/index.m3u8
+
+[906] Koodal TV
+    Category: PLC
+    URL: https://web.applelive.in/koodaltv/koodaltv/index.m3u8
+
+[907] Arputhar Yesu TV
+    Category: Devotional;Christian
+    URL: https://arputharyesutv.arputharyesutv.com/live/md/index.m3u8
+
+[908] Fox TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/foxtv/foxtv/index.m3u8
+
+[909] Sri Arjun TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/sriarjuntv/sriarjun/index.m3u8
+
+[910] Om TV
+    Category: PLC
+    URL: http://omtv.7starcloud.com:1935/omtv/live/live.m3u8
+
+[911] Arasu TV
+    Category: PLC
+    URL: https://ipcloud.live/ctn/arasu/index.m3u8
+
+[912] Magalir TV
+    Category: PLC
+    URL: https://ipcloud.live/ctn/magalir/index.m3u8
+
+[913] Tamil TV
+    Category: Devotional;Christian
+    URL: https://ktismaservers.in:3220/hybrid/play.m3u8
+
+[914] Family Channel
+    Category: Devotional;Christian
+    URL: https://2-fss-2.streamhoster.com/pl_118/203324-1410936-1/chunklist.m3u8
+
+[915] Life TV
+    Category: Devotional;Christian
+    URL: https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
+
+[916] News 80 Tamil
+    Category: News
+    URL: http://198.144.149.206:8080/NOTV/NEWS80/index.m3u8?token=GTR
+
+[917] RK TV
+    Category: PLC
+    URL: http://rktv.phoenixcreations.online/rktv/rktv/index.m3u8
+
+[918] MM TV Valliyur
+    Category: PLC
+    URL: http://mmtv.phoenixcreations.online/mmtv/mm/index.mpd
+
+[919] Manasu TV
+    Category: PLC;Badaga
+    URL: https://stream6.livebox.co.in/manasutvhls/live.m3u8
+
+[920] Madura TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/mm/maduratv/index.m3u8
+
+[921] Star Media
+    Category: PLC
+    URL: https://rtmp.notvstream.in/starmedia/starmedia/index.m3u8
+
+[922] Jayam TV Polur
+    Category: PLC
+    URL: https://live.singamcloud.in/jayamtv/jayamki/index.m3u8
+
+[923] Siddhar TV
+    Category: PLC
+    URL: http://198.144.149.206:8080/DINESH/PT2/index.m3u8?token=YAAL
+
+[924] Mathan TV
+    Category: PLC
+    URL: https://ipcloud.live/mathantv/mathantv/index.m3u8
+
+[925] Ezra TV
+    Category: Devotional;Christian
+    URL: https://stream.onecloudlive.in/riotv/riotvmax/index.m3u8
+
+[926] City TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/citytv/citytv/index.m3u8
+
+[927] Shalwin TV
+    Category: PLC
+    URL: https://live3.onecloudlive.in/shalwintv/shalwintv/index.m3u8
+
+[928] TTN TV
+    Category: PLC
+    URL: https://web.applelive.in/stream/ttntv/index.m3u8
+
+[929] Omm TV Nagercoil
+    Category: Devotional;Hindu
+    URL: https://web.applelive.in/ommtv/ommtv/index.m3u8
+
+[930] Kanna TV
+    Category: PLC
+    URL: https://web.applelive.in/stream/kktv/index.m3u8
+
+[931] Right TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/righttv/live/index.m3u8
+
+[932] Thendral TV Chennai
+    Category: PLC
+    URL: https://stream.ashokadigital.net/thendraltv/thendraltv/index.m3u8
+
+[933] Actionhollywood
+    Category: English
+    URL: https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+
+[934] Horror movies
+    Category: English
+    URL: http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+
+[935] Miyami tv
+    Category: English
+    URL: https://59ec5453559f0.streamlock.net/JennyLive/_definst_/JennyLive/media_9264.m3u8
+
+[936] Miyami 2
+    Category: English
+    URL: https://rpn3.bozztv.com/dvrfl07/ushba-t8/tracks-v1a1/mono.m3u8
+
+[937] Fashion
+    Category: English
+    URL: https://59ec5453559f0.streamlock.net/miamitvfashion/_definst_/fashion/media_w162147991_9652.m3u8
+
+[938] miyami 1
+    Category: English
+    URL: https://59ec5453559f0.streamlock.net/hiltonchannel/hiltonchannel/chunklist_w1869245857.m3u8
+
+[939] miyami 2
+    Category: English
+    URL: https://fl1004.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
+
+[940] National Geo
+    Category: English
+    URL: http://151.80.18.177:86/National_Geo_HD/index.m3u8
+
+[941] Models
+    Category: English
+    URL: https://59ec5453559f0.streamlock.net:443/miamitvmodels/_definst_/models/media_w550109961_21714.m3u8
+
+[942] EVENTS
+    Category: English
+    URL: https://59ec5453559f0.streamlock.net/EVENTS/_definst_/EVENTS/media_w1460617245_13049.m3u8
+
+[943] SIVAN TV
+    Category: EMBY Tamil Cloud
+    URL: http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+
+[944] EET TV
+    Category: EMBY Tamil Cloud
+    URL: https://live.streamjo.com/eetlive/eettv.m3u8
+
+[945] SMCV
+    Category: EMBY Singam Cloud - PLC
+    URL: http://singamcloud.in/smcvtv/smcvtv/index.m3u8
+
+[946] Madha TV
+    Category: EMBY Singam Cloud - Religion Channel
+    URL: http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w67072347.m3u8
+
+[947] Life TV Plus
+    Category: EMBY Singam Cloud - Religion Channel
+    URL: http://lifetv.livebox.co.in/lifetvtamilhls/live.m3u8
+
+[948] Family tv
+    Category: EMBY NOTV
+    URL: https://jctvapp.lanevservices.in/jcfcapp/jctvlive/playlist.m3u8
+
+[949] Life tv
+    Category: EMBY NOTV
+    URL: http://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
+
+[950] Makkal TV
+    Category: EMBY SOUTH - Local
+    URL: http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+
+[951] Makkal TV
+    Category: EMBY SOUTH - Entertainment
+    URL: https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/mono.m3u8
+
+[952] Vinmeen TV
+    Category: EMBY SOUTH - Religious
+    URL: http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
+
+[953] SVBC Tamil
+    Category: EMBY SOUTH - Devotional
+    URL: http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
+
+[954] NDTV
+    Category: EMBY SOUTH - News
+    URL: https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+
+[955] Samugam TV
+    Category: EMBY SOUTH - News
+    URL: https://ca.streamjo.com/live/samugam.m3u8
+
+[956] Sana TV
+    Category: PLC
+    URL: https://galaxyott.live/hls/sanatv.m3u8
+
+[957] Sana Plus
+    Category: Music
+    URL: https://galaxyott.live/hls/sanaplus.m3u8
+
+[958] NTC TV
+    Category: PLC
+    URL: https://galaxyott.live/hls/ntv.m3u8
+
+[959] Anandham TV
+    Category: PLC
+    URL: https://server.sscloud7.in/live/anandhamtv/index.m3u8
+
+[960] Suriya TV
+    Category: PLC
+    URL: https://galaxyott.live/hls/suryatv.m3u8
+
+[961] Subin TV (GalaxyOTT/Jio/TP)
+    Category: PLC
+    URL: https://stream.galaxyott.live/live/subintv/index.m3u8
+
+[962] Rock TV
+    Category: PLC
+    URL: https://apis.avmediawork.in/tvhls/rocktv.m3u8
+
+[963] Aaryaa TV (Cloud7)
+    Category: Music
+    URL: https://live.sscloud7.in/live/aaryaatv/index.m3u8
+
+[964] Roja TV
+    Category: PLC
+    URL: https://live.rojatv.cloud/rojatv/rojatv/index.m3u8
+
+[965] Roja Movies
+    Category: Movies
+    URL: https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
+
+[966] Raga TV
+    Category: PLC
+    URL: https://live.onecloudlive.in/ragatv/ragatvhd/index.m3u8
+
+[967] Om Sakthi TV
+    Category: PLC
+    URL: https://live1.sscloud7.com/live/omsakthitv/index.mpd
+
+[968] Oli TV
+    Category: PLC
+    URL: https://live.olidigital.in/olitv/olitv/index.m3u8
+
+[969] Time TV
+    Category: PLC
+    URL: https://live.olidigital.in/timetv/timetv/index.m3u8
+
+[970] Moon TV
+    Category: PLC
+    URL: https://live.maxtn.in/moontv/moontv/index.m3u8
+
+[971] NTN TV
+    Category: PLC
+    URL: https://live.skystream.in/live/ntntv/index.m3u8?hls_ctx=1314owa2
+
+[972] Sakthi TV
+    Category: PLC
+    URL: https://live.sscloud7.in/live/sakthitv/index.m3u8
+
+[973] Dtv
+    Category: PLC
+    URL: https://stream.d6-pro.com/Dtv/live/index.m3u8
+
+[974] TDN
+    Category: PLC
+    URL: https://live.maxtn.in/tdn/tdn/index.m3u8
+
+[975] 7 Green 4K
+    Category: PLC
+    URL: https://account33.livebox.co.in/7GREEN4Khls/live.m3u8
+
+[976] Tharun Movies
+    Category: PLC
+    URL: https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
+
+[977] MN TV
+    Category: PLC
+    URL: https://mntv.livebox.co.in/mntvhls/live.m3u8
+
+[978] GEM TV
+    Category: News
+    URL: https://gemtv.circle7stream.com/gem/fcce47a8559e30755582c396ce7fce9e.sdp/playlist.m3u8
+
+[979] YET TV
+    Category: PLC
+    URL: https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
+
+[980] Harin TV
+    Category: PLC
+    URL: https://ipcloud.live/harintv/harintvhd/index.m3u8
+
+[981] Phoenix TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/phoenixtv/phoenixtv/index.m3u8
+
+[982] Nila TV Pannur
+    Category: PLC
+    URL: https://live.olidigital.in/nilatv/nilatv/index.m3u8
+
+[983] Sky Plus TV
+    Category: PLC
+    URL: https://ipcloud.live/skytv/skytv/index.m3u8
+
+[984] SMCV TV
+    Category: PLC
+    URL: https://singamcloud.in/smcvtv/smcvtv/index.m3u8
+
+[985] APS Gold TV
+    Category: PLC
+    URL: https://apsgold-a1.tamilstream.in/apsgold/apsgold/index.m3u8
+
+[986] Isai TV
+    Category: Music
+    URL: https://server.sscloud7.in/isaihd/isaihd/index.m3u8
+
+[987] Tamil Oli TV
+    Category: PLC
+    URL: https://view.rcserver.in/tmp_hls7/tamilolitv/index.m3u8
+
+[988] Akilam TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/akilamtv/akilamtvhd/index.m3u8
+
+[989] RJ Tamil
+    Category: PLC
+    URL: https://ipcloud.live/rjtamiltv/rjtamil/index.m3u8
+
+[990] Maruthi TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/maruthitv/maruthitvhd/index.m3u8
+
+[991] M Television
+    Category: PLC
+    URL: https://ipcloud.live/mtv/menhd/index.m3u8
+
+[992] MSN TV
+    Category: PLC
+    URL: https://ipcloud.live/msntv/msntv/index.m3u8
+
+[993] Veerali TV
+    Category: PLC
+    URL: https://ipcloud.live/veerali/veeralitv/index.m3u8
+
+[994] 3 Star TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/threestartv/threestarhd/index.mpd
+
+[995] Shalini TV Tiruvannamalai
+    Category: PLC
+    URL: https://ipcloud.live/shalinitv/shalinitv/index.m3u8
+
+[996] Sai TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/saitvmdu/saitvmdu/index.m3u8
+
+[997] Anbu TV
+    Category: PLC
+    URL: https://ipcloud.live/anbutv/anbutvhd/index.m3u8
+
+[998] Nellai TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/nellaitv/nellaitv/index.m3u8
+
+[999] SJ Surya TV
+    Category: PLC
+    URL: https://ipcloud.live/nellaitv/suriyatv/index.m3u8
+
+[1000] Params TV
+    Category: PLC
+    URL: https://app.ashokadigital.net/app/a3e0b02f/index.m3u8
+
+[1001] Durai Melodies
+    Category: Music
+    URL: https://stream.onecloudlive.in/duraitv/classic/index.m3u8
+
+[1002] Apple TV Marthandam
+    Category: PLC
+    URL: https://web.applelive.in/stream/appletv/index.m3u8
+
+[1003] Eagle TV
+    Category: PLC
+    URL: https://ipcloud.live/eaglemedia/eagletv/index.m3u8
+
+[1004] Amman TV
+    Category: PLC
+    URL: https://app.ashokadigital.net/app/78b1bc36/index.m3u8
+
+[1005] Oscar TV
+    Category: Uncategorized
+    URL: https://account21.livebox.co.in/oscartvhls/live.m3u8
+
+[1006] Jeiyan TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/jeyantv/jeyantv/index.m3u8
+
+[1007] Vidiyal TV
+    Category: PLC
+    URL: https://account11.livebox.co.in/vidyaltvhls/live.m3u8?psk=stream
+
+[1008] Pothigai Thendral
+    Category: PLC
+    URL: https://ipcloud.live/pothigai/thendral/index.m3u8
+
+[1009] JRP TV
+    Category: PLC
+    URL: https://ipcloud.live/jrptv/jrphd/index.m3u8
+
+[1010] Jayaam TV
+    Category: PLC
+    URL: https://app.ashokadigital.net/app/67a779e9/index.m3u8
+
+[1011] Ragam TV
+    Category: PLC
+    URL: https://account26.livebox.co.in/RAGAMMTPhls/live.m3u8
+
+[1012] KCN TV
+    Category: PLC
+    URL: https://view.rcserver.in/tmp_hls12/kcntv/index.m3u8
+
+[1013] Thirumalai TV Vadipatti
+    Category: PLC
+    URL: https://ipcloud.live/thirumalaitv/madurai/index.m3u8
+
+[1014] SS TV Nagercoil
+    Category: PLC
+    URL: https://server.sscloud7.in/live/sshd/playlist.m3u8
+
+[1015] Jith TV
+    Category: PLC
+    URL: https://sscloud7.com/live/jithtv/index.m3u8
+
+[1016] Bhakthi TV
+    Category: PLC
+    URL: https://live.sscloud7.in/live/bhakthitv/index.m3u8
+
+[1017] Sky TV
+    Category: PLC
+    URL: https://sscloud7.com/live/skytv/index.m3u8
+
+[1018] Maniway TV
+    Category: PLC
+    URL: https://live.singamcloud.in/bsctv/bsctv/index.m3u8
+
+[1019] King TV Alangulam
+    Category: PLC
+    URL: https://server.sscloud7.in/kingtv/kingtv/index.m3u8
+
+[1020] Udhayam TV Madurai
+    Category: PLC
+    URL: https://view.rcserver.in/tmp_hls8/udhayamtv/index.m3u8
+
+[1021] Jayam TV Karur
+    Category: PLC
+    URL: https://view.rcserver.in/tmp_hls10/jayamtvkarur/index.m3u8
+
+[1022] Jeyasubbu TV
+    Category: PLC
+    URL: https://view.rcserver.in/tmp_hls15/jeyasubbumovies/index.m3u8
+
+[1023] Tamilnesan TV
+    Category: PLC
+    URL: https://view.rcserver.in/tmp_hls14/tntv/index.m3u8
+
+[1024] Amma Vision
+    Category: PLC
+    URL: https://view.rcserver.in/tmp_hls19/ammavision/index.m3u8
+
+[1025] Jayam TV
+    Category: PLC
+    URL: https://view.rcserver.in/tmp_hls20/index.m3u8
+
+[1026] QMax Plus
+    Category: PLC
+    URL: https://view.rcserver.in/tmp_hls22/qmaxtv/index.m3u8
+
+[1027] Thirai TV
+    Category: Movies
+    URL: https://view.apserver.in/tmp_hls2/thiraitv/index.m3u8
+
+[1028] Thirai TV Music
+    Category: Music
+    URL: https://view.apserver.in/tmp_hls1/thiraitvplus/index.m3u8
+
+[1029] Thendral TV Theni
+    Category: PLC
+    URL: https://sscloud7.com/live/thendraltv/index.m3u8
+
+[1030] Cuddalore Voice TV
+    Category: PLC
+    URL: https://stream.ashokadigital.net/voicetv/voicetvhd/index.m3u8
+
+[1031] Irattaipaathai TV
+    Category: PLC
+    URL: https://account31.livebox.co.in/IRATTAIPAATHAITVhls/live.m3u8
+
+[1032] King TV Ranipet
+    Category: PLC
+    URL: https://ipcloud.live/kingtv/kingtv/index.mpd
+
+[1033] Suriyan TV Karur
+    Category: PLC
+    URL: https://view.rcserver.in/tmp_hls9/suriyantv/index.m3u8
+
+[1034] MDN TV
+    Category: PLC
+    URL: https://account18.livebox.co.in/IMAGESEQUENCEhls/live.m3u8
+
+[1035] Eesan TV
+    Category: PLC
+    URL: https://live.singamcloud.in/eesantv/eesantv/index.m3u8
+
+[1036] Vajram TV
+    Category: PLC;Platform
+    URL: https://app.ashokadigital.net/app/68b001a0/index.m3u8
+
+[1037] Vajra TV
+    Category: PLC;Platform
+    URL: https://app.ashokadigital.net/app/3b31be9f/index.m3u8
+
+[1038] Citi Channel
+    Category: PLC
+    URL: https://stream.ashokadigital.net/cititv/cititvhd/index.m3u8
+
+[1039] V Tamizh
+    Category: PLC
+    URL: https://app.ashokadigital.net/app/89c09acf/index.m3u8
+
+[1040] Azhagi TV
+    Category: PLC
+    URL: https://view.rcserver.in/tmp_hls17/azhagitv/index.m3u8
+
+[1041] MTV Trichy
+    Category: PLC
+    URL: https://stream.iplive.xyz/mtv/mtvhd/index.m3u8
+
+[1042] Jeyam Tv
+    Category: PLC
+    URL: https://live.sscloud7.in/live/jeyamtv/index.m3u8
+
+[1043] Raagam Friends TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/raagamtv/raagamtvhd/index.m3u8
+
+[1044] Super TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/superstartv/superstarhd/index.m3u8
+
+[1045] KRN TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/krntv/krntvhd/index.m3u8
+
+[1046] Aramm TV
+    Category: PLC
+    URL: https://singamcloud.in/arammtv/arammtv/index.m3u8
+
+[1047] Fort Channels
+    Category: PLC
+    URL: https://stream.onecloudlive.in/forttv/fortchannel/index.m3u8
+
+[1048] Solai TV
+    Category: PLC
+    URL: https://ipcloud.live/solaitv/solaihd/index.m3u8
+
+[1049] Jeyam Plus
+    Category: PLC;TACTV Platform
+    URL: https://ipcloud.live/mmtv/jeyamplus/index.m3u8
+
+[1050] Mallai TV
+    Category: PLC
+    URL: https://rojatv.cloud/mallaitv/mallaitv/index.m3u8
+
+[1051] MM TV
+    Category: PLC;Platform
+    URL: https://ipcloud.live/mmtv/mmtvhd/index.m3u8
+
+[1052] PCN Channel
+    Category: PLC
+    URL: https://pcntv.wmsdigital.in/hls/gtv/stream.m3u8
+
+[1053] Annai TV
+    Category: PLC;Platform
+    URL: https://annainew.livebox.co.in/annailivehls/live.m3u8
+
+[1054] 7Star Television
+    Category: PLC;Platform
+    URL: https://annainew.livebox.co.in/7startvhls/livestream.m3u8
+
+[1055] Amma TV
+    Category: PLC;Platform
+    URL: https://annainew.livebox.co.in/ammatvhls/live.m3u8
+
+[1056] Sri Sai TV
+    Category: PLC;Platform
+    URL: https://annainew.livebox.co.in/srisaihls/live.m3u8
+
+[1057] Paasamalar TV
+    Category: PLC
+    URL: https://stream.sscloud7.in/live/paasamalartv/index.m3u8
+
+[1058] Karthick TV
+    Category: PLC
+    URL: https://ipcloud.live/karthick/karthicktvhd/index.m3u8
+
+[1059] Selva Tamil TV
+    Category: PLC
+    URL: https://stream.sscloud7.in/live/selvatamiltv/index.mpd
+
+[1060] Ruhasha TV
+    Category: PLC
+    URL: https://live.applelive.in/ruhashatv/ruhashatv/index.m3u8
+
+[1061] Ezhil TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/ezhiltv/ezhilhd/index.m3u8
+
+[1062] Fox TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/foxtv/foxtv/index.m3u8
+
+[1063] Sri Arjun TV
+    Category: PLC
+    URL: https://stream.onecloudlive.in/sriarjuntv/sriarjun/index.m3u8
+
+[1064] Arasu TV
+    Category: PLC
+    URL: https://ipcloud.live/ctn/arasu/index.m3u8
+
+[1065] Magalir TV
+    Category: PLC
+    URL: https://ipcloud.live/ctn/magalir/index.m3u8
+
